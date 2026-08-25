@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "catalogUrl": "data/catalogo-tv.json",
+  "calendarUrl": "data/calendario.json",
+  "remoteCatalogUrl": "",
+  "note": "Inserisci un URL remoto dalle impostazioni dell'app; il valore salvato nel browser ha priorità."
+}

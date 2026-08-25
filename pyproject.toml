@@ -1,0 +1,9 @@
+[project]
+name = "milan-radar"
+version = "4.1.0"
+description = "Monitor personale AC Milan: sei emittenti prioritarie e confronto mondiale prudente"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.unittest]
+start-directory = "tests"

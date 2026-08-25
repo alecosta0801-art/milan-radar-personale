@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#10261f">
+  <meta name="description" content="Milan Radar: verifica puntuale delle partite AC Milan su RSI LA 2, Digi Sport, BBC iPlayer, ITVX, CBS Golazo e RTBF Auvio.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Milan Radar">
+  <meta name="mobile-web-app-capable" content="yes">
+  <title>Milan Radar — AC Milan, emittente per emittente</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/icon-180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png">
+  <link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+  <a class="skip" href="#contenuto">Vai al contenuto</a>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Milan Radar, home">
+      <span class="brand-mark">MR</span>
+      <span>MILAN<b>RADAR</b></span>
+    </a>
+    <nav class="main-nav" aria-label="Sezioni">
+      <button class="nav-button active" data-tab="focus">Milan Radar</button>
+      <button class="nav-button" data-tab="matches">Tutte le partite</button>
+      <button class="nav-button" data-tab="world">249 Paesi</button>
+      <button class="nav-button" data-tab="sources">Fonti</button>
+      <button class="nav-button" data-tab="method">Metodo</button>
+    </nav>
+    <div class="top-actions">
+      <span class="connection" id="connection"><i></i><span>Avvio…</span></span>
+      <button class="icon-button" id="settings-button" title="Impostazioni" aria-label="Impostazioni">⚙</button>
+    </div>
+  </header>
+
+  <main id="contenuto">
+    <section class="hero">
+      <div class="hero-copy">
+        <span class="eyebrow">AC MILAN 2026/27 · SEI EMITTENTI SOTTO OSSERVAZIONE</span>
+        <h1>Il Milan, verificato.<br><em>Fino alla singola gara.</em></h1>
+        <p>RSI LA 2, Digi Sport Romania, BBC iPlayer, ITVX, CBS Sports Golazo e RTBF Auvio: diretta integrale, costo, territorio e prova ufficiale restano sempre separati.</p>
+        <div class="hero-actions">
+          <button class="primary" id="refresh-button"><span>↻</span> Sincronizza dati</button>
+          <button class="secondary" data-go="focus">Apri Milan Radar</button>
+        </div>
+      </div>
+      <div class="hero-panel" aria-label="Riepilogo copertura">
+        <div class="panel-head">
+          <span>STATO MILAN RADAR</span>
+          <b id="catalog-state">Caricamento…</b>
+        </div>
+        <div class="metric-grid">
+          <div><strong id="metric-matches">—</strong><span>Partite Milan</span></div>
+          <div><strong id="metric-countries">249</strong><span>Paesi confrontati</span></div>
+          <div><strong id="metric-confirmed">—</strong><span>Gratis Milan provate</span></div>
+          <div><strong id="metric-sources">—</strong><span>Fonti registrate</span></div>
+        </div>
+        <div class="panel-foot" id="catalog-detail">Recupero calendario e catalogo TV.</div>
+      </div>
+    </section>
+
+    <section class="truth-bar">
+      <div class="truth-icon">✓</div>
+      <div><b>La parola “confermata” richiede la partita precisa</b><span>Un diritto generale, una pagina risultati, un highlight o il nome “Golazo” non bastano. “Nessuna prova” dichiara un limite delle fonti, non un’assenza mondiale assoluta.</span></div>
+      <button data-go="method">Leggi le 4 regole →</button>
+    </section>
+
+    <section class="ios-install hidden" id="ios-install" aria-label="Installa Milan Radar su iPhone">
+      <span class="install-icon">MR</span>
+      <div><b>Installa Milan Radar sull’iPhone</b><span>In Safari premi <strong>Condividi</strong> e poi <strong>Aggiungi alla schermata Home</strong>. Si aprirà come un’app indipendente.</span></div>
+      <button id="dismiss-install" aria-label="Nascondi suggerimento">×</button>
+    </section>
+
+    <section class="workspace">
+      <div class="notice hidden" id="app-notice" role="status"></div>
+      <div class="tab-panel active" id="tab-focus">
+        <div class="focus-heading">
+          <div><span class="eyebrow dark">PRIORITÀ ASSOLUTA AC MILAN</span><h2>Controllo emittente per emittente</h2><p>Seleziona una delle 38 partite. La matrice distingue prova ufficiale puntuale, probabilità, assenza di prova e contenuti non integrali.</p></div>
+          <label><span>Partita del Milan</span><select id="focus-event"></select></label>
+        </div>
+        <div class="focus-summary" id="focus-summary">
+          <div class="skeleton"></div>
+        </div>
+        <div class="radar-legend" aria-label="Legenda stati">
+          <span class="radar-key confirmed">Confermata gratis</span>
+          <span class="radar-key paid">Confermata, non gratis</span>
+          <span class="radar-key probable">Probabile / possibile</span>
+          <span class="radar-key none">Non provata</span>
+          <span class="radar-key media">Highlights / testo</span>
+        </div>
+        <div class="broadcaster-grid" id="broadcaster-grid" aria-live="polite"></div>
+        <section class="season-focus">
+          <div class="section-heading">
+            <div><span class="eyebrow dark">TUTTA LA STAGIONE</span><h2>Le 38 verifiche del Milan</h2></div>
+            <p>Le date e gli orari possono cambiare. Il controllo puntuale va ripetuto vicino al calcio d’inizio.</p>
+          </div>
+          <div class="milan-fixture-strip" id="milan-fixtures"></div>
+        </section>
+        <div class="focus-correction">
+          <b>Correzione importante sulle sei emittenti.</b>
+          <span>RSI LA 2 non prova la Serie A; Digi Sport è confermabile ma lo streaming richiede abbonamento Digi Romania; BBC e Golazo sono selettive; ITVX e RTBF Auvio non hanno oggi una prova corrente del Milan. L’app non trasforma queste differenze in un generico “si vede gratis”.</span>
+        </div>
+      </div>
+
+      <div class="tab-panel" id="tab-matches">
+        <div class="filter-card">
+          <label><span>Giornata</span><select id="round-filter"></select></label>
+          <label><span>Paese o territorio</span><select id="country-filter"></select></label>
+          <label class="search-label"><span>Squadra</span><input id="team-filter" type="search" placeholder="Milan è la priorità; cerca anche le altre…"></label>
+          <div class="segmented" aria-label="Filtro copertura">
+            <button class="active" data-coverage="ALL">Tutte</button>
+            <button data-coverage="CONFIRMED">Gratis confermate</button>
+            <button data-coverage="NONE">Senza conferma</button>
+          </div>
+        </div>
+        <div class="section-heading">
+          <div><span class="eyebrow dark">CALENDARIO E COPERTURA</span><h2 id="matches-title">Partite</h2></div>
+          <p id="matches-summary">Caricamento in corso…</p>
+        </div>
+        <div class="match-list" id="match-list" aria-live="polite">
+          <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+        </div>
+      </div>
+
+      <div class="tab-panel" id="tab-world">
+        <div class="section-heading world-heading">
+          <div><span class="eyebrow dark">CONTROLLO ISO 3166-1</span><h2>Tutti i 249 Paesi e territori</h2></div>
+          <p>Lo stato cambia in base alla giornata selezionata nelle Partite.</p>
+        </div>
+        <div class="world-stats">
+          <button class="world-stat active" data-world="ALL"><strong id="world-all">249</strong><span>Tutti</span></button>
+          <button class="world-stat exact" data-world="EXACT"><strong id="world-exact">0</strong><span>Conferma puntuale</span></button>
+          <button class="world-stat pending" data-world="PENDING"><strong id="world-pending">0</strong><span>Selezione in attesa</span></button>
+          <button class="world-stat review" data-world="REVIEW"><strong id="world-review">0</strong><span>Da verificare</span></button>
+          <button class="world-stat none" data-world="NONE"><strong id="world-none">0</strong><span>Nessuna conferma</span></button>
+        </div>
+        <div class="world-tools"><input id="world-search" type="search" placeholder="Cerca Paese o codice ISO…"><span id="world-scope">Ambito: giornata corrente</span></div>
+        <div class="country-grid" id="country-grid"></div>
+      </div>
+
+      <div class="tab-panel" id="tab-sources">
+        <div class="section-heading">
+          <div><span class="eyebrow dark">15 FONTI PRIORITARIE + CONFRONTO MONDIALE</span><h2>Fonti e stato dei controlli</h2></div>
+          <p>Le fonti delle sei emittenti vengono evidenziate. “Raggiungibile” non equivale mai a “partita gratuita”.</p>
+        </div>
+        <div class="source-summary" id="source-summary"></div>
+        <div class="source-list" id="source-list"></div>
+        <div class="review-box">
+          <div><span class="eyebrow dark">CODA PRUDENTE</span><h3>Candidati automatici da revisionare</h3><p>Le pagine non strutturate possono segnalare una possibile partita. Il sistema non la pubblica come gratuita finché territorio, data, canale e accesso non sono provati.</p></div>
+          <strong id="review-count">0</strong>
+        </div>
+      </div>
+
+      <div class="tab-panel" id="tab-method">
+        <div class="section-heading">
+          <div><span class="eyebrow dark">REGOLE DEL CATALOGO</span><h2>Come funziona davvero</h2></div>
+          <p>Automazione dove è affidabile; revisione quando la fonte è ambigua.</p>
+        </div>
+        <div class="method-grid">
+          <article><span>01</span><h3>È la gara precisa?</h3><p>La fonte deve nominare Milan e avversaria, data e canale/piattaforma. I diritti generali producono al massimo “possibile” o “probabile”, mai una conferma puntuale.</p></article>
+          <article><span>02</span><h3>È la partita integrale?</h3><p>Il sistema separa live completo, differita, programma Golazo, highlights, radio, risultato e cronaca testuale. Soltanto il live integrale può contare.</p></article>
+          <article><span>03</span><h3>È davvero gratis?</h3><p>Canale e accesso sono due prove diverse. Digi Sport può confermare il live, ma lo streaming per abbonati non entra tra le opzioni gratuite. Paramount+ non è Golazo FAST.</p></article>
+          <article><span>04</span><h3>È nel territorio giusto?</h3><p>RSI, BBC, ITVX, CBS e RTBF applicano condizioni territoriali. Nessun link modifica la posizione e Milan Radar non usa né suggerisce VPN.</p></article>
+        </div>
+        <div class="definition-card">
+          <div><span class="eyebrow">CHE COSA CONTA COME GRATIS</span><h3>Accesso alla diretta senza abbonamento a pagamento</h3><p>Sono ammessi account gratuiti, pubblicità, canali FAST, free-to-air, licenze TV obbligatorie e dispositivi compatibili, purché siano dichiarati chiaramente.</p></div>
+          <div><b>Non inclusi</b><ul><li>Prove promozionali</li><li>Servizi “gratis” solo con altro abbonamento</li><li>VPN o aggiramenti geografici</li><li>Streaming non ufficiali</li><li>Highlights, radio e live testuali</li></ul></div>
+        </div>
+        <div class="legal-note"><b>Limite inevitabile.</b> Non esiste un’API mondiale ufficiale e gratuita per tutti i palinsesti. Milan Radar ricontrolla in priorità le sei emittenti, conserva il confronto di 249 territori e mostra le lacune invece di inventare risultati.</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <a class="brand" href="#"><span class="brand-mark">MR</span><span>MILAN<b>RADAR</b></span></a>
+    <p><b>AC Milan prima di tutto; 249 territori restano confrontati.</b><br>Nessun video ospitato, nessuna VPN, nessun collegamento non autorizzato.</p>
+    <p class="footer-meta">PWA iPhone · Controlli GitHub ogni 6 ore<br><span id="footer-update">Dati in caricamento</span></p>
+  </footer>
+
+  <div class="modal-back hidden" id="settings-modal" role="dialog" aria-modal="true" aria-labelledby="settings-title">
+    <section class="modal">
+      <div class="modal-head"><div><span class="eyebrow dark">CONFIGURAZIONE</span><h2 id="settings-title">Impostazioni semplici</h2></div><button class="modal-close" data-close aria-label="Chiudi">×</button></div>
+      <div class="modal-body">
+        <label class="field"><span>URL catalogo remoto (facoltativo)</span><input id="remote-url" type="url" placeholder="Lascia vuoto: GitHub Pages è già configurato"><small>Nell’app pubblicata non devi inserire nulla. Usa questo campo solo per collegare manualmente un catalogo diverso.</small></label>
+        <div class="button-row"><button class="primary small" id="save-settings">Salva</button><button class="secondary small" id="test-remote">Prova URL</button></div>
+        <hr>
+        <div class="settings-block"><div><h3>Archivio personale</h3><p>Aggiunte locali, separate dal catalogo pubblico.</p></div><strong id="personal-count">0</strong></div>
+        <div class="button-row wrap"><button class="secondary small" id="add-personal">+ Aggiungi verifica</button><button class="secondary small" id="export-personal">Esporta JSON</button><label class="secondary small file-label">Importa JSON<input id="import-personal" type="file" accept="application/json"></label></div>
+        <hr>
+        <button class="danger" id="clear-local">Cancella cache e dati personali</button>
+      </div>
+    </section>
+  </div>
+
+  <div class="modal-back hidden" id="personal-modal" role="dialog" aria-modal="true" aria-labelledby="personal-title">
+    <section class="modal large">
+      <div class="modal-head"><div><span class="eyebrow dark">ARCHIVIO LOCALE</span><h2 id="personal-title">Aggiungi una conferma puntuale</h2></div><button class="modal-close" data-close aria-label="Chiudi">×</button></div>
+      <form class="modal-body personal-form" id="personal-form">
+        <label class="field wide"><span>Partita precisa</span><select name="eventId" id="personal-event" required></select></label>
+        <label class="field"><span>Codice Paese ISO</span><input name="code" maxlength="2" placeholder="IT" required></label>
+        <label class="field"><span>Emittente</span><input name="broadcaster" required></label>
+        <label class="field"><span>Sito ufficiale</span><input name="watchUrl" type="url" required></label>
+        <label class="field"><span>Fonte del palinsesto</span><input name="sourceUrl" type="url" required></label>
+        <label class="field"><span>Data verifica</span><input name="checkedAt" type="date" required></label>
+        <label class="field"><span>Accesso</span><input name="access" placeholder="Account gratuito / free-to-air…" required></label>
+        <label class="field wide"><span>Restrizione territoriale e note</span><textarea name="restriction" required></textarea></label>
+        <div class="button-row wide"><button class="primary" type="submit">Salva per questa partita</button><button class="secondary" type="button" data-close>Annulla</button></div>
+      </form>
+    </section>
+  </div>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+MILAN RADAR — iPHONE INDIPENDENTE, SENZA PC ACCESO
+===================================================
+Versione 4.1 PWA · 25 agosto 2026
+
+OBIETTIVO
+---------
+Questa consegna è pronta per diventare un'app sulla schermata Home dell'iPhone.
+GitHub esegue gratuitamente i controlli online ogni sei ore e pubblica l'ultimo
+catalogo valido. Dopo la prima configurazione il PC può restare spento.
+
+Non servono Python, terminale, Xcode, App Store, chiavi API o abbonamenti tecnici.
+Serve soltanto l'account GitHub già creato e, per il primo caricamento, un browser.
+
+I TRE PASSAGGI
+--------------
+1. Estrai lo ZIP e carica su un nuovo repository GitHub pubblico TUTTI i 41 file
+   e le cartelle contenuti, compresa la cartella .github.
+2. In GitHub scegli Settings > Pages > Source: GitHub Actions e attendi il segno
+   verde del workflow “Pubblica Milan Radar”.
+3. Apri l'indirizzo del sito con Safari sull'iPhone, poi premi:
+   Condividi > Aggiungi alla schermata Home > Aggiungi.
+
+La procedura guidata clic per clic è in GUIDA-GITHUB.md.
+
+COME FUNZIONA SULL'iPHONE
+-------------------------
+- Apri Milan Radar dalla nuova icona MR.
+- Il pulsante si chiama “Sincronizza dati”: scarica il controllo online più
+  recente prodotto da GitHub. Non finge di eseguire Python sull'iPhone.
+- GitHub controlla automaticamente calendario e fonti ogni sei ore.
+- L'ultima copia valida resta disponibile anche senza rete.
+- Per richiedere un controllo immediato apri GitHub > repository > Actions >
+  Aggiorna catalogo Milan Radar > Run workflow.
+
+PRIORITÀ E PRUDENZA
+-------------------
+Milan Radar mette l'AC Milan al primo posto e controlla in particolare:
+- RSI LA 2 (Svizzera)
+- Digi Sport 1–4 (Romania)
+- BBC iPlayer / BBC ALBA (Regno Unito)
+- ITVX (Regno Unito)
+- CBS Sports Golazo Network (Stati Uniti)
+- RTBF Auvio (Belgio)
+
+Conserva anche il confronto delle 380 partite e dei 249 Paesi/territori. Una gara
+è “confermata” soltanto quando una fonte ufficiale prova partita, data, canale,
+diretta integrale, territorio e accesso. Diritti generali e segnali automatici
+restano “probabili” o “possibili”. Highlights e pagine risultati non sono dirette.
+
+STATO PUNTUALE ALLA CONSEGNA
+----------------------------
+Prossima gara: Milan–Venezia, 28 agosto 2026.
+- Digi Sport 3: diretta integrale confermata, ma streaming riservato agli
+  abbonati Digi Romania; quindi NON gratuito.
+- BBC e CBS Golazo: possibilità selettive, non conferme puntuali per questa gara.
+- RSI LA 2, ITVX e RTBF Auvio: nessuna diretta Milan provata nelle fonti correnti.
+
+PUBBLICO E PRIVATO
+------------------
+Il repository e l'indirizzo GitHub Pages sono pubblici: non inserire dati
+personali, password o token nei file. Catalogo e fonti pubblicati sono quindi
+consultabili da chi conosce l'URL.
+
+Le aggiunte fatte in ⚙ > Aggiungi verifica e l'archivio personale restano invece
+nel browser dell'iPhone e non vengono caricati su GitHub. Esportali in JSON se
+vuoi conservarne una copia: cancellare i dati di Safari può rimuoverli.
+
+TERRITORI E LIMITI
+------------------
+Milan Radar è informativo, non trasmette video e non usa né suggerisce VPN. Ogni
+servizio resta soggetto a territorio, account, licenza TV o abbonamento indicati.
+Non esiste un registro mondiale ufficiale, gratuito e completo di tutti i
+palinsesti: il sistema mostra fonti e lacune anziché inventare certezze.
+
+VERSIONE WINDOWS FACOLTATIVA
+----------------------------
+Se in futuro vuoi anche un controllo immediato dal PC, fai doppio clic su
+AVVIA-WINDOWS.bat. Solo per questa modalità locale serve Python 3.10 o successivo.
+Il server usa http://localhost:8788/ e sceglie automaticamente una porta libera.
+
+Per i dettagli tecnici e metodologici apri GUIDA-COMPLETA.md.

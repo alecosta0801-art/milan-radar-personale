@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "Milan Radar — AC Milan",
+  "short_name": "Milan Radar",
+  "description": "Controllo prudente delle partite AC Milan sulle emittenti prioritarie e confronto mondiale.",
+  "lang": "it-IT",
+  "start_url": "./?app=home",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f3f0e8",
+  "theme_color": "#10261f",
+  "categories": ["sports", "utilities"],
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
