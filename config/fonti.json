@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 2,
+  "policy": "Priorità AC Milan. Nessuna pagina HTML ambigua produce conferme automatiche; diretta integrale, accesso e territorio sono stati distinti.",
+  "sources": [
+    {
+      "id": "rsi-la2-live",
+      "name": "RSI LA 2 — diretta e palinsesto",
+      "territories": [
+        "CH"
+      ],
+      "url": "https://www.rsi.ch/play/tv/live/la-2?tvLiveId=livestream_La2",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 14,
+      "requiredMarkers": [
+        "LA 2",
+        "Milan",
+        "Serie A"
+      ],
+      "pairWindow": 260,
+      "note": "Priorità Milan. Una voce di palinsesto diventa candidata, mai conferma automatica.",
+      "priorityMilan": true
+    },
+    {
+      "id": "rsi-access-faq",
+      "name": "RSI — FAQ accesso territoriale",
+      "territories": [
+        "CH"
+      ],
+      "url": "https://www.rsi.ch/la-rsi/faq/",
+      "official": true,
+      "role": "territorio e geoblocco",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "RSI limita la diretta streaming alla Svizzera e dichiara che le protezioni intervengono anche con VPN.",
+      "priorityMilan": true
+    },
+    {
+      "id": "digi-program-1",
+      "name": "Digi Sport 1 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-1",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 14,
+      "requiredMarkers": [
+        "Serie A"
+      ],
+      "pairWindow": 280,
+      "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
+      "priorityMilan": true
+    },
+    {
+      "id": "digi-program-2",
+      "name": "Digi Sport 2 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-2",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 14,
+      "requiredMarkers": [
+        "Serie A"
+      ],
+      "pairWindow": 280,
+      "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
+      "priorityMilan": true
+    },
+    {
+      "id": "digi-program-3",
+      "name": "Digi Sport 3 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-3",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 14,
+      "requiredMarkers": [
+        "Serie A"
+      ],
+      "pairWindow": 280,
+      "note": "Fonte puntuale di Milan–Venezia del 28 agosto 2026; streaming riservato agli abbonati Digi Romania.",
+      "priorityMilan": true
+    },
+    {
+      "id": "digi-program-4",
+      "name": "Digi Sport 4 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-4",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 14,
+      "requiredMarkers": [
+        "Serie A"
+      ],
+      "pairWindow": 280,
+      "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
+      "priorityMilan": true
+    },
+    {
+      "id": "digi-access-ro",
+      "name": "Digi Sport — condizioni streaming Romania",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/fotbal/serie-a/juventus-genoa-2-0-acum-pe-digi-sport-2-ocazie-uriasa-ratata-de-mckennie-napoli-ac-milan-2145-dgs-2-4182027",
+      "official": true,
+      "role": "requisiti di accesso",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "La fonte indica la visione digisport.ro/app per gli abbonati Digi Romania: non è accesso liberamente gratuito.",
+      "priorityMilan": true
+    },
+    {
+      "id": "bbc-serie-a-2026",
+      "name": "BBC Media Centre — Serie A",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+      "official": true,
+      "role": "diritti e prime selezioni",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "Fonte ufficiale del pacchetto BBC; le nuove selezioni possono essere pubblicate su pagine diverse.",
+      "priorityMilan": true
+    },
+    {
+      "id": "bbc-iplayer-terms",
+      "name": "BBC iPlayer — requisiti ufficiali",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.bbc.co.uk/iplayer/help/questions/supported-devices/use-mobile-tablet/",
+      "official": true,
+      "role": "territorio, account e licenza",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "BBC richiede presenza nel Regno Unito, account BBC e licenza TV per iPlayer.",
+      "priorityMilan": true
+    },
+    {
+      "id": "itvx-sport",
+      "name": "ITVX — categoria Sport",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.itv.com/watch/categories/sport",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 21,
+      "requiredMarkers": [
+        "Serie A",
+        "Milan"
+      ],
+      "pairWindow": 260,
+      "note": "Nessun diritto Serie A 2026/27 è presunto. Ogni eventuale rilevazione resta in revisione.",
+      "priorityMilan": true
+    },
+    {
+      "id": "itvx-serie-a-history",
+      "name": "ITVX — pagina Serie A storica",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.itv.com/watch/serie-a/10a5672/10a5672a0007",
+      "official": true,
+      "role": "controllo evidenza storica",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "La vecchia pagina del 2024 oggi restituisce pagina non trovata; non prova la stagione 2026/27.",
+      "priorityMilan": true
+    },
+    {
+      "id": "cbs-golazo-schedule",
+      "name": "CBS Sports Golazo Network",
+      "territories": [
+        "US"
+      ],
+      "url": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "official": true,
+      "role": "pagina canale e possibili palinsesti",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 24,
+      "requiredMarkers": [
+        "Golazo"
+      ],
+      "pairWindow": 240,
+      "note": "Pagina mista: ogni rilevazione è soltanto candidata, mai conferma automatica.",
+      "priorityMilan": true
+    },
+    {
+      "id": "cbs-serie-a-rights",
+      "name": "Paramount Press Express — diritti Serie A",
+      "territories": [
+        "US"
+      ],
+      "url": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "official": true,
+      "role": "diritti territoriali",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "Prova i diritti CBS, non la gratuità della singola partita.",
+      "priorityMilan": true
+    },
+    {
+      "id": "rtbf-auvio-live",
+      "name": "RTBF Auvio — Le Sport en Direct",
+      "territories": [
+        "BE"
+      ],
+      "url": "https://auvio.rtbf.be/widget/22635",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 21,
+      "requiredMarkers": [
+        "Milan",
+        "Serie A"
+      ],
+      "pairWindow": 260,
+      "note": "Solo una pagina video live puntuale può provare la partita; score e articoli non bastano.",
+      "priorityMilan": true
+    },
+    {
+      "id": "rtbf-milan-scores",
+      "name": "RTBF Sports — pagina AC Milan",
+      "territories": [
+        "BE"
+      ],
+      "url": "https://www.rtbf.be/sport/direct/football/equipe/153/ac-milan",
+      "official": true,
+      "role": "risultati, non prova video",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "Pagina risultati/cronaca: non equivale a una diretta video Auvio.",
+      "priorityMilan": true
+    },
+    {
+      "id": "dazn-it-free-guide",
+      "name": "DAZN Italia — modalità gratuita",
+      "territories": [
+        "IT"
+      ],
+      "url": "https://www.dazn.com/it-IT/news/altro/come-vedere-una-partita-di-dazn-senza-nessun-abbonamento/142yv3mymomm81tpf2oaoawrt4",
+      "official": true,
+      "role": "condizioni di gratuità",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "Conferma il meccanismo gratuito, non la gara di ogni turno.",
+      "priorityMilan": false
+    },
+    {
+      "id": "sportytv-official",
+      "name": "SportyTV",
+      "territories": [
+        "NG",
+        "GH"
+      ],
+      "url": "https://www.sportytv.com/index.html",
+      "official": true,
+      "role": "canale free-to-air e competizioni",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 14,
+      "requiredMarkers": [
+        "Serie A"
+      ],
+      "pairWindow": 220,
+      "note": "Il sito generale non basta per attribuire una partita.",
+      "priorityMilan": false
+    },
+    {
+      "id": "dazn-fast-samsung",
+      "name": "DAZN FAST+ / Samsung TV Plus",
+      "territories": [
+        "DE",
+        "AT"
+      ],
+      "url": "https://dazngroup.com/press-room/dazn-samsung-tv-plus-erweitern-partnerschaft-2026/",
+      "official": true,
+      "role": "annuncio del canale gratuito",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "Annuncio del pacchetto; selezione puntuale da verificare.",
+      "priorityMilan": false
+    },
+    {
+      "id": "cazetv-streams",
+      "name": "CazéTV — dirette ufficiali",
+      "territories": [
+        "BR"
+      ],
+      "url": "https://www.youtube.com/@cazetv/streams",
+      "official": true,
+      "role": "palinsesto video ufficiale",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 21,
+      "requiredMarkers": [
+        "Serie A",
+        "Italiano"
+      ],
+      "pairWindow": 260,
+      "note": "Un video programmato deve essere verificato come diretta integrale e autorizzata.",
+      "priorityMilan": false
+    },
+    {
+      "id": "cbc-sport-az",
+      "name": "CBC Sport",
+      "territories": [
+        "AZ"
+      ],
+      "url": "https://cbcsport.az/",
+      "official": true,
+      "role": "palinsesto candidato",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "enabled": true,
+      "scanMatches": true,
+      "scanDays": 14,
+      "requiredMarkers": [
+        "Serie A"
+      ],
+      "pairWindow": 220,
+      "note": "Gratuità e singola gara devono essere provate.",
+      "priorityMilan": false
+    },
+    {
+      "id": "abema-dazn-jp",
+      "name": "ABEMA de DAZN",
+      "territories": [
+        "JP"
+      ],
+      "url": "https://abema.tv/lp/abemadedazn-soccer-leaguelist",
+      "official": true,
+      "role": "copertura candidata",
+      "automation": "HEALTH_ONLY",
+      "enabled": true,
+      "note": "L’inclusione della Serie A non prova che la partita sia gratuita.",
+      "priorityMilan": false
+    },
+    {
+      "id": "livesoccertv-golazo",
+      "name": "Live Soccer TV — Golazo",
+      "territories": [
+        "US"
+      ],
+      "url": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "official": false,
+      "role": "palinsesto secondario",
+      "automation": "LIMITED",
+      "enabled": false,
+      "disabledReason": "La fonte applica protezioni anti-bot/Cloudflare e non è una dipendenza automatica affidabile.",
+      "note": "Può essere usata editorialmente insieme a una prova ufficiale dei diritti.",
+      "priorityMilan": false
+    }
+  ]
+}

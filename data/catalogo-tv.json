@@ -1,0 +1,2863 @@
+{
+  "schemaVersion": 3,
+  "product": "Milan Radar by CalcioDove",
+  "season": "2026-27",
+  "generatedAt": "2026-08-24T22:41:28Z",
+  "editorialUpdatedAt": "2026-08-24T12:00:00Z",
+  "coverage": {
+    "territoriesCompared": 249,
+    "standard": "ISO 3166-1 alpha-2",
+    "sourcesRegistered": 22,
+    "sourcesReachable": 15,
+    "sourcesLimited": 4,
+    "sourcesErrored": 3,
+    "confirmedAssignments": 12,
+    "selectivePrograms": 5,
+    "reviewCandidates": 24,
+    "meaning": "Ogni territorio è confrontato con il catalogo e le fonti registrate. Non esiste un registro mondiale ufficiale che provi l'assenza assoluta di altre trasmissioni."
+  },
+  "policy": {
+    "freeDefinition": "Diretta legale della singola partita accessibile senza abbonamento a pagamento nel territorio autorizzato.",
+    "excluded": [
+      "prove promozionali",
+      "servizi inclusi soltanto in un abbonamento preesistente",
+      "VPN o aggiramenti geografici",
+      "streaming non ufficiali",
+      "highlights, radio e live testuali"
+    ],
+    "publicationRule": "Un pacchetto selettivo non viene mai applicato a tutto il turno. Solo una fonte sufficientemente puntuale può creare una conferma."
+  },
+  "assignments": [
+    {
+      "id": "bbc-gb-401874748",
+      "eventId": "401874748",
+      "territories": [
+        "GB"
+      ],
+      "broadcaster": "BBC ALBA / BBC iPlayer",
+      "watchUrl": "https://www.bbc.co.uk/iplayer",
+      "sourceUrl": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+      "rightsUrl": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+      "sourceId": "bbc-serie-a-2026",
+      "access": {
+        "cost": "FREE",
+        "registration": "Account BBC richiesto",
+        "tvLicense": "Licenza TV britannica richiesta",
+        "platform": "BBC ALBA / BBC iPlayer"
+      },
+      "restriction": "Disponibile legalmente soltanto nel Regno Unito, secondo condizioni e geoblocchi BBC.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "OFFICIAL_EXACT",
+        "checkedAt": "2026-08-19T12:00:00Z",
+        "confidence": "HIGH",
+        "evidence": "Il comunicato BBC indica espressamente Atalanta–Sassuolo come prima gara."
+      },
+      "note": "Conferma puntuale ufficiale; non estesa alle altre 37 selezioni BBC.",
+      "freshness": "HISTORICAL"
+    },
+    {
+      "id": "cbs-us-401874748",
+      "eventId": "401874748",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "HISTORICAL"
+    },
+    {
+      "id": "cbs-us-401874928",
+      "eventId": "401874928",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "HISTORICAL"
+    },
+    {
+      "id": "cbs-us-401874743",
+      "eventId": "401874743",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "CURRENT"
+    },
+    {
+      "id": "cbs-us-401874746",
+      "eventId": "401874746",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "CURRENT"
+    },
+    {
+      "id": "cbs-us-401874938",
+      "eventId": "401874938",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "CURRENT"
+    },
+    {
+      "id": "cbs-us-401874945",
+      "eventId": "401874945",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "CURRENT"
+    },
+    {
+      "id": "cbs-us-401874970",
+      "eventId": "401874970",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "CURRENT"
+    },
+    {
+      "id": "cbs-us-401874781",
+      "eventId": "401874781",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "CURRENT"
+    },
+    {
+      "id": "cbs-us-401874751",
+      "eventId": "401874751",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "CURRENT"
+    },
+    {
+      "id": "cbs-us-401874943",
+      "eventId": "401874943",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "CURRENT"
+    },
+    {
+      "id": "cbs-us-401874962",
+      "eventId": "401874962",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio.",
+      "freshness": "CURRENT"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "bbc-gb",
+      "territories": [
+        "GB"
+      ],
+      "broadcaster": "BBC ALBA / BBC Sport / BBC iPlayer",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "38 gare nella stagione, selezionate progressivamente",
+      "watchUrl": "https://www.bbc.co.uk/iplayer",
+      "sourceUrl": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+      "access": "Account BBC e licenza TV UK",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "Ogni nuova gara viene pubblicata solo dopo l’annuncio puntuale BBC."
+    },
+    {
+      "id": "dazn-it",
+      "territories": [
+        "IT"
+      ],
+      "broadcaster": "DAZN modalità gratuita",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "Fino a 5 gare nella stagione",
+      "watchUrl": "https://www.dazn.com/it-IT/home",
+      "sourceUrl": "https://www.dazn.com/it-IT/news/altro/come-vedere-una-partita-di-dazn-senza-nessun-abbonamento/142yv3mymomm81tpf2oaoawrt4",
+      "access": "Account gratuito, senza abbonamento e senza metodo di pagamento per la gara sbloccata",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "La singola gara deve apparire senza lucchetto; il pacchetto non vale per tutto il turno."
+    },
+    {
+      "id": "cbs-us",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "Partite selezionate",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "access": "Canale FAST gratuito con pubblicità",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "La pagina ufficiale mescola schede Golazo e Paramount+; ogni gara richiede prova puntuale."
+    },
+    {
+      "id": "sporty-ng-gh",
+      "territories": [
+        "NG",
+        "GH"
+      ],
+      "broadcaster": "SportyTV",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "Serie A selezionata sul canale free-to-air",
+      "watchUrl": "https://www.sportytv.com/index.html",
+      "sourceUrl": "https://www.sportytv.com/index.html",
+      "access": "Free-to-air; piattaforme e condizioni locali",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "Il pacchetto generale non attribuisce automaticamente alcuna gara."
+    },
+    {
+      "id": "dazn-fast-de-at",
+      "territories": [
+        "DE",
+        "AT"
+      ],
+      "broadcaster": "DAZN FAST+ su Samsung TV Plus",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "Due live complessivi per weekend tra Serie A, LaLiga e Ligue 1",
+      "watchUrl": "https://www.samsung.com/de/tvs/smart-tv/samsung-tv-plus/",
+      "sourceUrl": "https://dazngroup.com/press-room/dazn-samsung-tv-plus-erweitern-partnerschaft-2026/",
+      "access": "Nessun abbonamento; dispositivo Samsung compatibile",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "Occorre verificare quale competizione e quale gara venga scelta nel singolo weekend."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-br-cazetv",
+      "territories": [
+        "BR"
+      ],
+      "broadcaster": "CazéTV",
+      "status": "REVIEW",
+      "url": "https://www.youtube.com/@cazetv/streams",
+      "note": "Canale ufficiale monitorato; nessuna prova puntuale sufficiente 2026/27 nel catalogo corrente."
+    },
+    {
+      "id": "review-az-cbc",
+      "territories": [
+        "AZ"
+      ],
+      "broadcaster": "CBC Sport",
+      "status": "REVIEW",
+      "url": "https://cbcsport.az/",
+      "note": "Copertura riportata, ma nessuna gara gratuita puntuale verificata."
+    },
+    {
+      "id": "review-ro-digi",
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport / Digi Online",
+      "status": "REVIEW",
+      "url": "https://www.digisport.ro/fotbal/serie-a",
+      "note": "Copertura presente; accesso senza abbonamento non provato."
+    },
+    {
+      "id": "review-jp-abema",
+      "territories": [
+        "JP"
+      ],
+      "broadcaster": "ABEMA de DAZN",
+      "status": "REVIEW",
+      "url": "https://abema.tv/lp/abemadedazn-soccer-leaguelist",
+      "note": "Serie A presente nel servizio; la singola gara gratuita non è provata."
+    }
+  ],
+  "automaticReviewQueue": [
+    {
+      "id": "auto-cbs-golazo-schedule-401874758",
+      "state": "REVIEW",
+      "eventId": "401874758",
+      "priorityTeam": "AC Milan",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "sourceId": "cbs-golazo-schedule",
+      "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "detectedAt": "2026-08-24T22:41:24Z",
+      "mediaSignals": [
+        "HIGHLIGHTS",
+        "TEXT_SCORE"
+      ],
+      "reason": "PRIORITÀ MILAN. Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-3-401874758",
+      "state": "REVIEW",
+      "eventId": "401874758",
+      "priorityTeam": "AC Milan",
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 3 — palinsesto",
+      "sourceId": "digi-program-3",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
+      "detectedAt": "2026-08-24T22:40:44Z",
+      "mediaSignals": [
+        "LIVE",
+        "HIGHLIGHTS"
+      ],
+      "reason": "PRIORITÀ MILAN. Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-4-401874758",
+      "state": "REVIEW",
+      "eventId": "401874758",
+      "priorityTeam": "AC Milan",
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 4 — palinsesto",
+      "sourceId": "digi-program-4",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
+      "detectedAt": "2026-08-24T22:40:45Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "PRIORITÀ MILAN. Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-cbs-golazo-schedule-401874932",
+      "state": "REVIEW",
+      "eventId": "401874932",
+      "priorityTeam": "AC Milan",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "sourceId": "cbs-golazo-schedule",
+      "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "detectedAt": "2026-08-24T22:41:24Z",
+      "mediaSignals": [
+        "HIGHLIGHTS",
+        "TEXT_SCORE"
+      ],
+      "reason": "PRIORITÀ MILAN. Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-cbs-golazo-schedule-401874954",
+      "state": "REVIEW",
+      "eventId": "401874954",
+      "priorityTeam": "AC Milan",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "sourceId": "cbs-golazo-schedule",
+      "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "detectedAt": "2026-08-24T22:41:24Z",
+      "mediaSignals": [
+        "HIGHLIGHTS",
+        "TEXT_SCORE"
+      ],
+      "reason": "PRIORITÀ MILAN. Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-3-401874742",
+      "state": "REVIEW",
+      "eventId": "401874742",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 3 — palinsesto",
+      "sourceId": "digi-program-3",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
+      "detectedAt": "2026-08-24T22:40:44Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-cbs-golazo-schedule-401874743",
+      "state": "REVIEW",
+      "eventId": "401874743",
+      "priorityTeam": null,
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "sourceId": "cbs-golazo-schedule",
+      "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "detectedAt": "2026-08-24T22:41:24Z",
+      "mediaSignals": [
+        "HIGHLIGHTS",
+        "TEXT_SCORE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-3-401874746",
+      "state": "REVIEW",
+      "eventId": "401874746",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 3 — palinsesto",
+      "sourceId": "digi-program-3",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
+      "detectedAt": "2026-08-24T22:40:44Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-cbs-golazo-schedule-401874748",
+      "state": "REVIEW",
+      "eventId": "401874748",
+      "priorityTeam": null,
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "sourceId": "cbs-golazo-schedule",
+      "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "detectedAt": "2026-08-24T22:41:24Z",
+      "mediaSignals": [
+        "HIGHLIGHTS",
+        "TEXT_SCORE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-cbs-golazo-schedule-401874750",
+      "state": "REVIEW",
+      "eventId": "401874750",
+      "priorityTeam": null,
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "sourceId": "cbs-golazo-schedule",
+      "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "detectedAt": "2026-08-24T22:41:24Z",
+      "mediaSignals": [
+        "HIGHLIGHTS",
+        "TEXT_SCORE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-2-401874755",
+      "state": "REVIEW",
+      "eventId": "401874755",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 2 — palinsesto",
+      "sourceId": "digi-program-2",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
+      "detectedAt": "2026-08-24T22:40:43Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-4-401874755",
+      "state": "REVIEW",
+      "eventId": "401874755",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 4 — palinsesto",
+      "sourceId": "digi-program-4",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
+      "detectedAt": "2026-08-24T22:40:45Z",
+      "mediaSignals": [],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-cbs-golazo-schedule-401874768",
+      "state": "REVIEW",
+      "eventId": "401874768",
+      "priorityTeam": null,
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "sourceId": "cbs-golazo-schedule",
+      "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "detectedAt": "2026-08-24T22:41:24Z",
+      "mediaSignals": [
+        "HIGHLIGHTS",
+        "TEXT_SCORE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-4-401874927",
+      "state": "REVIEW",
+      "eventId": "401874927",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 4 — palinsesto",
+      "sourceId": "digi-program-4",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
+      "detectedAt": "2026-08-24T22:40:45Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-cbs-golazo-schedule-401874930",
+      "state": "REVIEW",
+      "eventId": "401874930",
+      "priorityTeam": null,
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "sourceId": "cbs-golazo-schedule",
+      "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "detectedAt": "2026-08-24T22:41:24Z",
+      "mediaSignals": [
+        "HIGHLIGHTS",
+        "TEXT_SCORE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-2-401874942",
+      "state": "REVIEW",
+      "eventId": "401874942",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 2 — palinsesto",
+      "sourceId": "digi-program-2",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
+      "detectedAt": "2026-08-24T22:40:43Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-4-401874942",
+      "state": "REVIEW",
+      "eventId": "401874942",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 4 — palinsesto",
+      "sourceId": "digi-program-4",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
+      "detectedAt": "2026-08-24T22:40:45Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-cbs-golazo-schedule-401874946",
+      "state": "REVIEW",
+      "eventId": "401874946",
+      "priorityTeam": null,
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "sourceId": "cbs-golazo-schedule",
+      "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "detectedAt": "2026-08-24T22:41:24Z",
+      "mediaSignals": [
+        "HIGHLIGHTS",
+        "TEXT_SCORE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-2-401874970",
+      "state": "REVIEW",
+      "eventId": "401874970",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 2 — palinsesto",
+      "sourceId": "digi-program-2",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
+      "detectedAt": "2026-08-24T22:40:43Z",
+      "mediaSignals": [],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-4-401874970",
+      "state": "REVIEW",
+      "eventId": "401874970",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 4 — palinsesto",
+      "sourceId": "digi-program-4",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
+      "detectedAt": "2026-08-24T22:40:45Z",
+      "mediaSignals": [
+        "LIVE",
+        "HIGHLIGHTS"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    }
+  ],
+  "editorialExceptions": [
+    {
+      "id": "no-espn-auto",
+      "rule": "I nomi emittente presenti nel feed ESPN sono soltanto indizi e non producono conferme automatiche."
+    },
+    {
+      "id": "cbs-mixed-page",
+      "rule": "La pagina CBS Golazo include anche schede Paramount+; ogni elemento resta candidato finché non è provato gratuito sul canale Golazo."
+    },
+    {
+      "id": "blocked-sources",
+      "rule": "Una fonte bloccata o non strutturata resta LIMITATA/DA VERIFICARE e non viene trasformata in conferma."
+    }
+  ],
+  "milanRadar": {
+    "schemaVersion": 1,
+    "team": {
+      "id": "ac-milan",
+      "name": "AC Milan",
+      "calendarName": "Milan",
+      "aliases": [
+        "AC Milan",
+        "Milan",
+        "Rossoneri"
+      ]
+    },
+    "season": "2026-27",
+    "updatedAt": "2026-08-25T10:00:00Z",
+    "policy": {
+      "exactRule": "CONFERMATA è ammesso soltanto quando una fonte ufficiale nomina la partita precisa, la data e il canale o la piattaforma.",
+      "probableRule": "PROBABILE indica diritti o abitudini di selezione compatibili, ma nessuna assegnazione puntuale ufficiale: non è una promessa di visione.",
+      "negativeRule": "NON PROVATA non significa impossibile; significa che le fonti ufficiali monitorate non provano la diretta integrale.",
+      "mediaRule": "Highlights, Golazo/multimatch, differita, radiocronaca, risultato e cronaca testuale non equivalgono alla partita integrale.",
+      "territoryRule": "Il monitor non usa né suggerisce VPN. Ogni accesso vale soltanto nel territorio autorizzato."
+    },
+    "broadcasters": [
+      {
+        "id": "rsi-la2",
+        "name": "RSI LA 2",
+        "territory": "CH",
+        "language": "Italiano",
+        "watchUrl": "https://www.rsi.ch/play/tv/live/la-2?tvLiveId=livestream_La2",
+        "sourceIds": [
+          "rsi-la2-live",
+          "rsi-access-faq"
+        ],
+        "baselineState": "NO_EVIDENCE",
+        "baselineLabel": "Nessuna prova Serie A",
+        "fullMatchRights": "Non è stata trovata una prova ufficiale di diritti o selezioni Serie A 2026/27.",
+        "access": "Il live Play RSI è destinato alla Svizzera. RSI dichiara che la diretta dall'estero è esclusa e che le protezioni intervengono anche con VPN.",
+        "freeStatus": "La piattaforma può essere gratuita nel territorio autorizzato; ciò non prova una partita del Milan.",
+        "registration": "Non determinante finché manca una selezione puntuale.",
+        "monitoring": "Palinsesto LA 2 e FAQ territoriali.",
+        "warning": "Telecronaca italiana, notizie o altri eventi non dimostrano la diretta di Serie A."
+      },
+      {
+        "id": "digi-sport-ro",
+        "name": "Digi Sport Romania",
+        "territory": "RO",
+        "language": "Rumeno",
+        "watchUrl": "https://www.digisport.ro/program-tv",
+        "sourceIds": [
+          "digi-program-1",
+          "digi-program-2",
+          "digi-program-3",
+          "digi-program-4",
+          "digi-access-ro"
+        ],
+        "baselineState": "PROBABLE_NOT_FREE",
+        "baselineLabel": "Probabile TV, non gratis online",
+        "fullMatchRights": "Digi Sport comunica la copertura della Serie A 2026/27; il canale preciso va verificato gara per gara.",
+        "access": "La visione web/app delle partite è indicata per gli abbonati Digi Romania.",
+        "freeStatus": "NON GRATIS per il criterio di Milan Radar: richiede un abbonamento Digi Romania.",
+        "registration": "Account e abbonamento Digi Romania per lo streaming.",
+        "monitoring": "Palinsesti ufficiali Digi Sport 1, 2, 3 e 4.",
+        "warning": "Una trasmissione TV confermata può essere a pagamento: non viene conteggiata tra le dirette gratuite."
+      },
+      {
+        "id": "bbc-iplayer",
+        "name": "BBC iPlayer / BBC ALBA",
+        "territory": "GB",
+        "language": "Inglese / Gaelico",
+        "watchUrl": "https://www.bbc.co.uk/iplayer",
+        "sourceIds": [
+          "bbc-serie-a-2026",
+          "bbc-iplayer-terms"
+        ],
+        "baselineState": "POSSIBLE_NOT_CONFIRMED",
+        "baselineLabel": "Possibile selezione, non confermata",
+        "fullMatchRights": "Pacchetto ufficiale di 38 partite live di Serie A 2026/27: 19 BBC ALBA e 19 BBC Sport; tutte disponibili su iPlayer.",
+        "access": "Solo Regno Unito secondo le condizioni BBC; account BBC e licenza TV britannica richiesti per il live.",
+        "freeStatus": "Free-to-air/senza abbonamento sportivo, ma non senza requisiti: licenza TV UK obbligatoria.",
+        "registration": "Account BBC richiesto.",
+        "monitoring": "Media Centre, pagine programma BBC ALBA e iPlayer.",
+        "warning": "Le 38 partite sono selettive: il pacchetto generale non conferma automaticamente il Milan."
+      },
+      {
+        "id": "itvx",
+        "name": "ITVX",
+        "territory": "GB",
+        "language": "Inglese",
+        "watchUrl": "https://www.itv.com/watch/categories/sport",
+        "sourceIds": [
+          "itvx-sport",
+          "itvx-serie-a-history"
+        ],
+        "baselineState": "NO_EVIDENCE",
+        "baselineLabel": "Nessuna prova corrente",
+        "fullMatchRights": "Non è stata trovata una conferma ufficiale ITVX per la Serie A 2026/27.",
+        "access": "Le condizioni di ITVX valgono soltanto quando esiste un contenuto ufficiale disponibile nel Regno Unito.",
+        "freeStatus": "Non classificabile per il Milan finché manca una selezione corrente.",
+        "registration": "Da verificare sulla pagina dell'evento, se annunciato.",
+        "monitoring": "Categoria sport ITVX e pagina storica Serie A.",
+        "warning": "Vecchie puntate del 2024, ora rimosse, non provano diritti o partite del 2026/27."
+      },
+      {
+        "id": "cbs-golazo",
+        "name": "CBS Sports Golazo Network",
+        "territory": "US",
+        "language": "Inglese",
+        "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+        "sourceIds": [
+          "cbs-golazo-schedule",
+          "cbs-serie-a-rights"
+        ],
+        "baselineState": "POSSIBLE_NOT_CONFIRMED",
+        "baselineLabel": "Possibile selezione, non confermata",
+        "fullMatchRights": "CBS ha i diritti USA: tutte le 380 gare sono live su Paramount+; soltanto partite selezionate possono passare anche sul canale FAST Golazo.",
+        "access": "Golazo è un canale FAST gratuito negli Stati Uniti; Paramount+ è un servizio distinto a pagamento.",
+        "freeStatus": "Gratis solo se la partita precisa è attribuita ufficialmente a Golazo, non quando la scheda indica Paramount+.",
+        "registration": "Golazo normalmente non richiede un abbonamento; valgono piattaforma e territorio USA.",
+        "monitoring": "Pagina live Golazo, schede partita CBS e comunicato diritti Paramount.",
+        "warning": "Il programma 'Golazo Show' e gli highlights non equivalgono alla diretta integrale del Milan."
+      },
+      {
+        "id": "rtbf-auvio",
+        "name": "RTBF Auvio",
+        "territory": "BE",
+        "language": "Francese",
+        "watchUrl": "https://auvio.rtbf.be/widget/22635",
+        "sourceIds": [
+          "rtbf-auvio-live",
+          "rtbf-milan-scores"
+        ],
+        "baselineState": "NO_EVIDENCE",
+        "baselineLabel": "Nessuna prova video",
+        "fullMatchRights": "Non è stata trovata una selezione ufficiale live di Serie A/Milan su Auvio 2026/27.",
+        "access": "Territorio e account Auvio sarebbero da verificare sulla pagina dell'evento, se pubblicata.",
+        "freeStatus": "Non classificabile come diretta gratuita finché manca una pagina video live puntuale.",
+        "registration": "Da verificare sulla pagina dell'evento.",
+        "monitoring": "Indice ufficiale 'Le Sport en Direct' e pagina risultati AC Milan.",
+        "warning": "La pagina risultati, la cronaca testuale o una scheda squadra RTBF non sono uno streaming video."
+      }
+    ],
+    "observations": [
+      {
+        "id": "obs-401874932-digi",
+        "eventId": "401874932",
+        "broadcasterId": "digi-sport-ro",
+        "state": "CONFIRMED_NOT_FREE",
+        "label": "Confermata, ma non gratis",
+        "medium": "FULL_MATCH_LIVE",
+        "channel": "Digi Sport 3",
+        "localDateTime": "23 agosto 2026, 21:30 (Romania)",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
+        "evidence": "Il palinsesto ufficiale Digi Sport 3 indicava Torino–Milan in diretta. Lo streaming richiedeva un abbonamento Digi Romania.",
+        "countsAsFreeFullMatch": false
+      },
+      {
+        "id": "obs-401874932-cbs",
+        "eventId": "401874932",
+        "broadcasterId": "cbs-golazo",
+        "state": "HIGHLIGHTS_ONLY",
+        "label": "Solo highlights su Golazo",
+        "medium": "HIGHLIGHTS",
+        "channel": "CBS Sports Golazo / Scoreline",
+        "localDateTime": "23 agosto 2026, dopo la partita",
+        "checkedAt": "2026-08-25T08:00:00Z",
+        "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+        "secondaryUrl": "https://www.cbssports.com/watch/serie-a/LET-211534058",
+        "evidence": "La pagina Golazo mostra highlights di 68 secondi. La scheda della diretta integrale attribuisce la gara a Paramount+, non al canale gratuito Golazo.",
+        "countsAsFreeFullMatch": false
+      },
+      {
+        "id": "obs-401874932-rtbf",
+        "eventId": "401874932",
+        "broadcasterId": "rtbf-auvio",
+        "state": "TEXT_SCORE_ONLY",
+        "label": "Solo risultato/cronaca",
+        "medium": "TEXT_SCORE",
+        "channel": "RTBF Sports",
+        "localDateTime": "23 agosto 2026",
+        "checkedAt": "2026-08-25T08:00:00Z",
+        "sourceUrl": "https://www.rtbf.be/sport/direct/football/serie-a/rencontre/531947/torino-ac-milan",
+        "evidence": "La pagina contiene dati, azioni e risultato della gara, ma non prova una diretta video Auvio.",
+        "countsAsFreeFullMatch": false
+      },
+      {
+        "id": "obs-401874758-digi",
+        "eventId": "401874758",
+        "broadcasterId": "digi-sport-ro",
+        "state": "CONFIRMED_NOT_FREE",
+        "label": "Confermata, ma non gratis",
+        "medium": "FULL_MATCH_LIVE",
+        "channel": "Digi Sport 3",
+        "localDateTime": "28 agosto 2026, 21:45 (Romania)",
+        "checkedAt": "2026-08-25T10:00:00Z",
+        "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
+        "evidence": "Il palinsesto ufficiale Digi Sport 3 nomina 'Live Serie A: Milan–Venezia' alle 21:45. L'accesso online resta riservato agli abbonati Digi Romania.",
+        "countsAsFreeFullMatch": false
+      },
+      {
+        "id": "obs-401874758-bbc",
+        "eventId": "401874758",
+        "broadcasterId": "bbc-iplayer",
+        "state": "NOT_CONFIRMED",
+        "label": "Non selezionata al controllo",
+        "medium": "NO_LISTING",
+        "channel": "BBC iPlayer / BBC ALBA",
+        "localDateTime": "28 agosto 2026",
+        "checkedAt": "2026-08-25T10:00:00Z",
+        "sourceUrl": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+        "evidence": "La fonte BBC conferma il pacchetto selettivo ma non nomina Milan–Venezia. Nessuna prova puntuale ufficiale è stata trovata.",
+        "countsAsFreeFullMatch": false
+      },
+      {
+        "id": "obs-401874758-rtbf",
+        "eventId": "401874758",
+        "broadcasterId": "rtbf-auvio",
+        "state": "NOT_CONFIRMED",
+        "label": "Non presente nel live Auvio",
+        "medium": "NO_LISTING",
+        "channel": "RTBF Auvio",
+        "localDateTime": "28 agosto 2026",
+        "checkedAt": "2026-08-25T10:00:00Z",
+        "sourceUrl": "https://auvio.rtbf.be/widget/22635",
+        "evidence": "L'indice ufficiale degli eventi sportivi live Auvio non elenca Milan–Venezia al controllo del 25 agosto.",
+        "countsAsFreeFullMatch": false
+      }
+    ],
+    "fixtures": [
+      {
+        "eventId": "401874932",
+        "round": 1,
+        "date": "2026-08-23T18:45Z",
+        "status": "FINISHED",
+        "home": "Torino",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401874758",
+        "round": 2,
+        "date": "2026-08-28T18:45Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Venezia"
+      },
+      {
+        "eventId": "401874954",
+        "round": 3,
+        "date": "2026-09-06T18:45Z",
+        "status": "SCHEDULED",
+        "home": "Juventus",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401874941",
+        "round": 4,
+        "date": "2026-09-13T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Lazio",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401874944",
+        "round": 5,
+        "date": "2026-09-20T18:45Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Lecce"
+      },
+      {
+        "eventId": "401874789",
+        "round": 6,
+        "date": "2026-10-11T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Sassuolo",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401874978",
+        "round": 7,
+        "date": "2026-10-17T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Atalanta"
+      },
+      {
+        "eventId": "401874779",
+        "round": 8,
+        "date": "2026-10-25T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Udinese",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401874993",
+        "round": 9,
+        "date": "2026-10-28T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Bologna"
+      },
+      {
+        "eventId": "401874795",
+        "round": 10,
+        "date": "2026-11-01T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Inter Milan"
+      },
+      {
+        "eventId": "401875018",
+        "round": 11,
+        "date": "2026-11-08T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Genoa",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401874989",
+        "round": 12,
+        "date": "2026-11-22T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Frosinone"
+      },
+      {
+        "eventId": "401875019",
+        "round": 13,
+        "date": "2026-11-29T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Cagliari",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401874995",
+        "round": 14,
+        "date": "2026-12-06T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Parma"
+      },
+      {
+        "eventId": "401875028",
+        "round": 15,
+        "date": "2026-12-13T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Napoli",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875044",
+        "round": 16,
+        "date": "2026-12-20T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Como"
+      },
+      {
+        "eventId": "401874986",
+        "round": 17,
+        "date": "2027-01-03T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Monza",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875034",
+        "round": 18,
+        "date": "2027-01-06T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Fiorentina"
+      },
+      {
+        "eventId": "401875089",
+        "round": 19,
+        "date": "2027-01-10T20:00Z",
+        "status": "SCHEDULED",
+        "home": "AS Roma",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875010",
+        "round": 20,
+        "date": "2027-01-17T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Torino"
+      },
+      {
+        "eventId": "401875061",
+        "round": 21,
+        "date": "2027-01-24T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Frosinone",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875078",
+        "round": 22,
+        "date": "2027-01-31T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Juventus"
+      },
+      {
+        "eventId": "401874871",
+        "round": 23,
+        "date": "2027-02-07T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Bologna",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875105",
+        "round": 24,
+        "date": "2027-02-14T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Inter Milan",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875066",
+        "round": 25,
+        "date": "2027-02-21T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Genoa"
+      },
+      {
+        "eventId": "401875077",
+        "round": 26,
+        "date": "2027-02-28T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Como",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875100",
+        "round": 27,
+        "date": "2027-03-07T20:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Cagliari"
+      },
+      {
+        "eventId": "401875144",
+        "round": 28,
+        "date": "2027-03-14T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Sassuolo"
+      },
+      {
+        "eventId": "401875142",
+        "round": 29,
+        "date": "2027-03-21T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Atalanta",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875101",
+        "round": 30,
+        "date": "2027-04-04T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Monza"
+      },
+      {
+        "eventId": "401875093",
+        "round": 31,
+        "date": "2027-04-11T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Fiorentina",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401874831",
+        "round": 32,
+        "date": "2027-04-18T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Napoli"
+      },
+      {
+        "eventId": "401874859",
+        "round": 33,
+        "date": "2027-04-25T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Lecce",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875064",
+        "round": 34,
+        "date": "2027-05-02T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Lazio"
+      },
+      {
+        "eventId": "401875106",
+        "round": 35,
+        "date": "2027-05-09T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Parma",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875110",
+        "round": 36,
+        "date": "2027-05-16T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "AS Roma"
+      },
+      {
+        "eventId": "401874857",
+        "round": 37,
+        "date": "2027-05-23T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Venezia",
+        "away": "Milan"
+      },
+      {
+        "eventId": "401875159",
+        "round": 38,
+        "date": "2027-05-30T18:00Z",
+        "status": "SCHEDULED",
+        "home": "Milan",
+        "away": "Udinese"
+      }
+    ],
+    "counts": {
+      "fixtures": 38,
+      "broadcasters": 6,
+      "exactObservations": 6,
+      "confirmedFreeFullMatches": 0
+    }
+  },
+  "sources": [
+    {
+      "id": "rsi-la2-live",
+      "name": "RSI LA 2 — diretta e palinsesto",
+      "territories": [
+        "CH"
+      ],
+      "url": "https://www.rsi.ch/play/tv/live/la-2?tvLiveId=livestream_La2",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:41Z",
+      "lastSuccessAt": "2026-08-24T22:40:41Z",
+      "contentHash": "cca7d8fc05d043839011b011bc90c50744939491319b544542c1dcd71884ccca",
+      "contentChanged": false,
+      "note": "Priorità Milan. Una voce di palinsesto diventa candidata, mai conferma automatica.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "error": null
+    },
+    {
+      "id": "rsi-access-faq",
+      "name": "RSI — FAQ accesso territoriale",
+      "territories": [
+        "CH"
+      ],
+      "url": "https://www.rsi.ch/la-rsi/faq/",
+      "official": true,
+      "role": "territorio e geoblocco",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:41Z",
+      "lastSuccessAt": "2026-08-24T22:40:41Z",
+      "contentHash": "5df3979a33b9d83c611321a364c65f3b0136b3de8c59b14e7d7a5532d6102c51",
+      "contentChanged": false,
+      "note": "RSI limita la diretta streaming alla Svizzera e dichiara che le protezioni intervengono anche con VPN.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "digi-program-1",
+      "name": "Digi Sport 1 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-1",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:41Z",
+      "lastSuccessAt": "2026-08-24T22:40:42Z",
+      "contentHash": "e5422ed04e418518ee3f5c49ff1d9acdf55532af9d6c1e189349979f1cd2e0a9",
+      "contentChanged": true,
+      "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
+      "status": "CHANGED",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "digi-program-2",
+      "name": "Digi Sport 2 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-2",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:42Z",
+      "lastSuccessAt": "2026-08-24T22:40:43Z",
+      "contentHash": "54fd305e972245ecfb91d5764f041e1c1d4c299bb494be33c86eed67b639474e",
+      "contentChanged": false,
+      "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "digi-program-3",
+      "name": "Digi Sport 3 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-3",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:43Z",
+      "lastSuccessAt": "2026-08-24T22:40:44Z",
+      "contentHash": "57fdb094b1d0218197fc0d0d1c1370730ff88ae17e8e70f57a0656d14ce5250b",
+      "contentChanged": false,
+      "note": "Fonte puntuale di Milan–Venezia del 28 agosto 2026; streaming riservato agli abbonati Digi Romania.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "digi-program-4",
+      "name": "Digi Sport 4 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-4",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:44Z",
+      "lastSuccessAt": "2026-08-24T22:40:45Z",
+      "contentHash": "4cbb1fb76bb346909450fd4c59047f55eb4550bc70b5fd7bfca67aa4590076b3",
+      "contentChanged": false,
+      "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "digi-access-ro",
+      "name": "Digi Sport — condizioni streaming Romania",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/fotbal/serie-a/juventus-genoa-2-0-acum-pe-digi-sport-2-ocazie-uriasa-ratata-de-mckennie-napoli-ac-milan-2145-dgs-2-4182027",
+      "official": true,
+      "role": "requisiti di accesso",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:45Z",
+      "lastSuccessAt": "2026-08-24T22:40:47Z",
+      "contentHash": "79a19969fdd7ad69d3fbaa0eb14fcb2daf9586fd375dad19124e106da4f1ba86",
+      "contentChanged": false,
+      "note": "La fonte indica la visione digisport.ro/app per gli abbonati Digi Romania: non è accesso liberamente gratuito.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "bbc-serie-a-2026",
+      "name": "BBC Media Centre — Serie A",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+      "official": true,
+      "role": "diritti e prime selezioni",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:47Z",
+      "lastSuccessAt": "2026-08-24T22:40:47Z",
+      "contentHash": "5553e47f051ee6c35bfe833b7cafad9e043d3c901f9ee10a76fa1337911a2e92",
+      "contentChanged": false,
+      "note": "Fonte ufficiale del pacchetto BBC; le nuove selezioni possono essere pubblicate su pagine diverse.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "error": null
+    },
+    {
+      "id": "bbc-iplayer-terms",
+      "name": "BBC iPlayer — requisiti ufficiali",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.bbc.co.uk/iplayer/help/questions/supported-devices/use-mobile-tablet/",
+      "official": true,
+      "role": "territorio, account e licenza",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:47Z",
+      "lastSuccessAt": "2026-08-24T22:40:47Z",
+      "contentHash": "3151fca238ee9fe860359c020557dca5061403e4d78f6e6c4e6ad21ad84f5d5c",
+      "contentChanged": false,
+      "note": "BBC richiede presenza nel Regno Unito, account BBC e licenza TV per iPlayer.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "itvx-sport",
+      "name": "ITVX — categoria Sport",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.itv.com/watch/categories/sport",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:47Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Nessun diritto Serie A 2026/27 è presunto. Ogni eventuale rilevazione resta in revisione.",
+      "status": "ERROR",
+      "httpStatus": null,
+      "error": "The read operation timed out"
+    },
+    {
+      "id": "itvx-serie-a-history",
+      "name": "ITVX — pagina Serie A storica",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.itv.com/watch/serie-a/10a5672/10a5672a0007",
+      "official": true,
+      "role": "controllo evidenza storica",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:05Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "La vecchia pagina del 2024 oggi restituisce pagina non trovata; non prova la stagione 2026/27.",
+      "status": "ERROR",
+      "httpStatus": null,
+      "error": "The read operation timed out"
+    },
+    {
+      "id": "cbs-golazo-schedule",
+      "name": "CBS Sports Golazo Network",
+      "territories": [
+        "US"
+      ],
+      "url": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "official": true,
+      "role": "pagina canale e possibili palinsesti",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:23Z",
+      "lastSuccessAt": "2026-08-24T22:41:24Z",
+      "contentHash": "fdbb25aa2e164c41602379dd1ffcb5366fdab4e5d50cf5b2139ec22792bf6167",
+      "contentChanged": false,
+      "note": "Pagina mista: ogni rilevazione è soltanto candidata, mai conferma automatica.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "cbs-serie-a-rights",
+      "name": "Paramount Press Express — diritti Serie A",
+      "territories": [
+        "US"
+      ],
+      "url": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "official": true,
+      "role": "diritti territoriali",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:24Z",
+      "lastSuccessAt": "2026-08-24T22:41:25Z",
+      "contentHash": "3aac82f63348ff34887b4dd151218e5f87906adc23f23926f9b637df29b23443",
+      "contentChanged": false,
+      "note": "Prova i diritti CBS, non la gratuità della singola partita.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "rtbf-auvio-live",
+      "name": "RTBF Auvio — Le Sport en Direct",
+      "territories": [
+        "BE"
+      ],
+      "url": "https://auvio.rtbf.be/widget/22635",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:25Z",
+      "lastSuccessAt": "2026-08-24T22:41:25Z",
+      "contentHash": "f817df11438fcb14ab035e3adcfc54679b355444d3851787b991955594a7f9e8",
+      "contentChanged": false,
+      "note": "Solo una pagina video live puntuale può provare la partita; score e articoli non bastano.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "rtbf-milan-scores",
+      "name": "RTBF Sports — pagina AC Milan",
+      "territories": [
+        "BE"
+      ],
+      "url": "https://www.rtbf.be/sport/direct/football/equipe/153/ac-milan",
+      "official": true,
+      "role": "risultati, non prova video",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:25Z",
+      "lastSuccessAt": "2026-08-24T22:41:27Z",
+      "contentHash": "ddc2c6583142a459cc830cf8ee360e43f62ff6527df16a986b7811d496fa2e41",
+      "contentChanged": false,
+      "note": "Pagina risultati/cronaca: non equivale a una diretta video Auvio.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "dazn-it-free-guide",
+      "name": "DAZN Italia — modalità gratuita",
+      "territories": [
+        "IT"
+      ],
+      "url": "https://www.dazn.com/it-IT/news/altro/come-vedere-una-partita-di-dazn-senza-nessun-abbonamento/142yv3mymomm81tpf2oaoawrt4",
+      "official": true,
+      "role": "condizioni di gratuità",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:27Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Conferma il meccanismo gratuito, non la gara di ogni turno.",
+      "status": "BLOCKED",
+      "httpStatus": 403,
+      "error": "HTTP 403"
+    },
+    {
+      "id": "sportytv-official",
+      "name": "SportyTV",
+      "territories": [
+        "NG",
+        "GH"
+      ],
+      "url": "https://www.sportytv.com/index.html",
+      "official": true,
+      "role": "canale free-to-air e competizioni",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:27Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Il sito generale non basta per attribuire una partita.",
+      "status": "ERROR",
+      "httpStatus": 404,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "dazn-fast-samsung",
+      "name": "DAZN FAST+ / Samsung TV Plus",
+      "territories": [
+        "DE",
+        "AT"
+      ],
+      "url": "https://dazngroup.com/press-room/dazn-samsung-tv-plus-erweitern-partnerschaft-2026/",
+      "official": true,
+      "role": "annuncio del canale gratuito",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:28Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Annuncio del pacchetto; selezione puntuale da verificare.",
+      "status": "BLOCKED",
+      "httpStatus": 403,
+      "error": "HTTP 403"
+    },
+    {
+      "id": "cazetv-streams",
+      "name": "CazéTV — dirette ufficiali",
+      "territories": [
+        "BR"
+      ],
+      "url": "https://www.youtube.com/@cazetv/streams",
+      "official": true,
+      "role": "palinsesto video ufficiale",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:28Z",
+      "lastSuccessAt": "2026-08-24T22:41:28Z",
+      "contentHash": "33c05bbb5a24f8ed7af253dc07d052b0fbe45e340e34cb8739a8d6994924ecd0",
+      "contentChanged": false,
+      "note": "Un video programmato deve essere verificato come diretta integrale e autorizzata.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "cbc-sport-az",
+      "name": "CBC Sport",
+      "territories": [
+        "AZ"
+      ],
+      "url": "https://cbcsport.az/",
+      "official": true,
+      "role": "palinsesto candidato",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:28Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Gratuità e singola gara devono essere provate.",
+      "status": "BLOCKED",
+      "httpStatus": 403,
+      "error": "HTTP 403"
+    },
+    {
+      "id": "abema-dazn-jp",
+      "name": "ABEMA de DAZN",
+      "territories": [
+        "JP"
+      ],
+      "url": "https://abema.tv/lp/abemadedazn-soccer-leaguelist",
+      "official": true,
+      "role": "copertura candidata",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:28Z",
+      "lastSuccessAt": "2026-08-24T22:41:28Z",
+      "contentHash": "ad944edd0709c3fc307a5311d707b75b0b7a0407ceb7bec7fa0c5f889221d737",
+      "contentChanged": false,
+      "note": "L’inclusione della Serie A non prova che la partita sia gratuita.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "livesoccertv-golazo",
+      "name": "Live Soccer TV — Golazo",
+      "territories": [
+        "US"
+      ],
+      "url": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "official": false,
+      "role": "palinsesto secondario",
+      "automation": "LIMITED",
+      "priorityMilan": false,
+      "checkedAt": null,
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Può essere usata editorialmente insieme a una prova ufficiale dei diritti.",
+      "status": "LIMITED",
+      "error": "La fonte applica protezioni anti-bot/Cloudflare e non è una dipendenza automatica affidabile."
+    }
+  ],
+  "countryIndex": [
+    {
+      "code": "AD",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AF",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AL",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AQ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AT",
+      "status": "SELECTIVE_PACKAGE"
+    },
+    {
+      "code": "AU",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AW",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AX",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "AZ",
+      "status": "REVIEW"
+    },
+    {
+      "code": "BA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BB",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BD",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BF",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BH",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BJ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BL",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BQ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BR",
+      "status": "REVIEW"
+    },
+    {
+      "code": "BS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BT",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BV",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BW",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BY",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "BZ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CC",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CD",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CF",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CH",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CK",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CL",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CU",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CV",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CW",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CX",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CY",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "CZ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "DE",
+      "status": "SELECTIVE_PACKAGE"
+    },
+    {
+      "code": "DJ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "DK",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "DM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "DO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "DZ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "EC",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "EE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "EG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "EH",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ER",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ES",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ET",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "FI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "FJ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "FK",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "FM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "FO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "FR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GB",
+      "status": "CONFIRMED_THIS_SEASON"
+    },
+    {
+      "code": "GD",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GF",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GH",
+      "status": "SELECTIVE_PACKAGE"
+    },
+    {
+      "code": "GI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GL",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GP",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GQ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GT",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GU",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GW",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "GY",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "HK",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "HM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "HN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "HR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "HT",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "HU",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ID",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "IE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "IL",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "IM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "IN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "IO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "IQ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "IR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "IS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "IT",
+      "status": "SELECTIVE_PACKAGE"
+    },
+    {
+      "code": "JE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "JM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "JO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "JP",
+      "status": "REVIEW"
+    },
+    {
+      "code": "KE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KH",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KP",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KW",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KY",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "KZ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LB",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LC",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LK",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LT",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LU",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LV",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "LY",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MC",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MD",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ME",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MF",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MH",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MK",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ML",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MP",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MQ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MT",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MU",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MV",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MW",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MX",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MY",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "MZ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NC",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NF",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NG",
+      "status": "SELECTIVE_PACKAGE"
+    },
+    {
+      "code": "NI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NL",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NP",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NU",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "NZ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "OM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PF",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PH",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PK",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PL",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PT",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PW",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "PY",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "QA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "RE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "RO",
+      "status": "REVIEW"
+    },
+    {
+      "code": "RS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "RU",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "RW",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SB",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SC",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SD",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SH",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SJ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SK",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SL",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ST",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SV",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SX",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SY",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "SZ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TC",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TD",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TF",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TH",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TJ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TK",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TL",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TO",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TR",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TT",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TV",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TW",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "TZ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "UA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "UG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "UM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "US",
+      "status": "CONFIRMED_THIS_SEASON"
+    },
+    {
+      "code": "UY",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "UZ",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "VA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "VC",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "VE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "VG",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "VI",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "VN",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "VU",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "WF",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "WS",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "YE",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "YT",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ZA",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ZM",
+      "status": "NO_CONFIRMED_OPTION"
+    },
+    {
+      "code": "ZW",
+      "status": "NO_CONFIRMED_OPTION"
+    }
+  ]
+}

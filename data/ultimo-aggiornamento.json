@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "startedAt": "2026-08-24T22:40:40Z",
+  "finishedAt": "2026-08-24T22:41:28Z",
+  "ok": true,
+  "steps": {
+    "calendar": {
+      "ok": true,
+      "mode": "NETWORK",
+      "count": 380,
+      "updatedAt": "2026-08-24T22:40:41Z"
+    },
+    "sources": {
+      "ok": 15,
+      "total": 22,
+      "limited": 4,
+      "errors": 3,
+      "changed": 1
+    },
+    "catalog": {
+      "ok": true,
+      "assignments": 12,
+      "opportunities": 5,
+      "territories": 249,
+      "generatedAt": "2026-08-24T22:41:28Z",
+      "milanFixtures": 38,
+      "milanBroadcasters": 6,
+      "milanExactObservations": 6,
+      "milanConfirmedFree": 0
+    }
+  },
+  "warnings": []
+}

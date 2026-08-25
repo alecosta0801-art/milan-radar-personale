@@ -1,0 +1,50 @@
+name: Pubblica Milan Radar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Aggiorna catalogo Milan Radar"]
+    types: [completed]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  pubblica:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica la versione più recente
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Configura GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Prepara la PWA statica
+        run: |
+          mkdir -p _site
+          cp index.html config.json manifest.webmanifest service-worker.js _site/
+          cp -r assets data _site/
+          touch _site/.nojekyll
+
+      - name: Carica il sito
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Pubblica
+        id: deployment
+        uses: actions/deploy-pages@v4

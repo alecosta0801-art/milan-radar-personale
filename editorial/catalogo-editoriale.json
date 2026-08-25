@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "season": "2026-27",
+  "updatedAt": "2026-08-24T12:00:00Z",
+  "assignments": [
+    {
+      "id": "bbc-gb-401874748",
+      "eventId": "401874748",
+      "territories": [
+        "GB"
+      ],
+      "broadcaster": "BBC ALBA / BBC iPlayer",
+      "watchUrl": "https://www.bbc.co.uk/iplayer",
+      "sourceUrl": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+      "rightsUrl": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+      "sourceId": "bbc-serie-a-2026",
+      "access": {
+        "cost": "FREE",
+        "registration": "Account BBC richiesto",
+        "tvLicense": "Licenza TV britannica richiesta",
+        "platform": "BBC ALBA / BBC iPlayer"
+      },
+      "restriction": "Disponibile legalmente soltanto nel Regno Unito, secondo condizioni e geoblocchi BBC.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "OFFICIAL_EXACT",
+        "checkedAt": "2026-08-19T12:00:00Z",
+        "confidence": "HIGH",
+        "evidence": "Il comunicato BBC indica espressamente Atalanta–Sassuolo come prima gara."
+      },
+      "note": "Conferma puntuale ufficiale; non estesa alle altre 37 selezioni BBC."
+    },
+    {
+      "id": "cbs-us-401874748",
+      "eventId": "401874748",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874928",
+      "eventId": "401874928",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874743",
+      "eventId": "401874743",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874746",
+      "eventId": "401874746",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874938",
+      "eventId": "401874938",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874945",
+      "eventId": "401874945",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874970",
+      "eventId": "401874970",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874781",
+      "eventId": "401874781",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874751",
+      "eventId": "401874751",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874943",
+      "eventId": "401874943",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    },
+    {
+      "id": "cbs-us-401874962",
+      "eventId": "401874962",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "rightsUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "sourceId": "cbs-golazo-schedule",
+      "access": {
+        "cost": "FREE",
+        "registration": "Non richiesta",
+        "tvLicense": "Non richiesta",
+        "platform": "Canale FAST con pubblicità"
+      },
+      "restriction": "Solo Stati Uniti; disponibilità soggetta al palinsesto e alle condizioni territoriali CBS.",
+      "verification": {
+        "status": "CONFIRMED",
+        "method": "SECONDARY_SCHEDULE_PLUS_OFFICIAL_RIGHTS",
+        "checkedAt": "2026-08-24T12:00:00Z",
+        "confidence": "MEDIUM",
+        "evidence": "La gara era elencata nel palinsesto puntuale Golazo; i diritti CBS sono confermati dalla fonte ufficiale."
+      },
+      "note": "Conferma puntuale conservativa. La fonte palinsesto può bloccare i controlli automatici e va ricontrollata vicino al calcio d’inizio."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "bbc-gb",
+      "territories": [
+        "GB"
+      ],
+      "broadcaster": "BBC ALBA / BBC Sport / BBC iPlayer",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "38 gare nella stagione, selezionate progressivamente",
+      "watchUrl": "https://www.bbc.co.uk/iplayer",
+      "sourceUrl": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+      "access": "Account BBC e licenza TV UK",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "Ogni nuova gara viene pubblicata solo dopo l’annuncio puntuale BBC."
+    },
+    {
+      "id": "dazn-it",
+      "territories": [
+        "IT"
+      ],
+      "broadcaster": "DAZN modalità gratuita",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "Fino a 5 gare nella stagione",
+      "watchUrl": "https://www.dazn.com/it-IT/home",
+      "sourceUrl": "https://www.dazn.com/it-IT/news/altro/come-vedere-una-partita-di-dazn-senza-nessun-abbonamento/142yv3mymomm81tpf2oaoawrt4",
+      "access": "Account gratuito, senza abbonamento e senza metodo di pagamento per la gara sbloccata",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "La singola gara deve apparire senza lucchetto; il pacchetto non vale per tutto il turno."
+    },
+    {
+      "id": "cbs-us",
+      "territories": [
+        "US"
+      ],
+      "broadcaster": "CBS Sports Golazo Network",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "Partite selezionate",
+      "watchUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network/",
+      "sourceUrl": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "access": "Canale FAST gratuito con pubblicità",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "La pagina ufficiale mescola schede Golazo e Paramount+; ogni gara richiede prova puntuale."
+    },
+    {
+      "id": "sporty-ng-gh",
+      "territories": [
+        "NG",
+        "GH"
+      ],
+      "broadcaster": "SportyTV",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "Serie A selezionata sul canale free-to-air",
+      "watchUrl": "https://www.sportytv.com/index.html",
+      "sourceUrl": "https://www.sportytv.com/index.html",
+      "access": "Free-to-air; piattaforme e condizioni locali",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "Il pacchetto generale non attribuisce automaticamente alcuna gara."
+    },
+    {
+      "id": "dazn-fast-de-at",
+      "territories": [
+        "DE",
+        "AT"
+      ],
+      "broadcaster": "DAZN FAST+ su Samsung TV Plus",
+      "status": "SELECTIVE_CONFIRMED",
+      "amount": "Due live complessivi per weekend tra Serie A, LaLiga e Ligue 1",
+      "watchUrl": "https://www.samsung.com/de/tvs/smart-tv/samsung-tv-plus/",
+      "sourceUrl": "https://dazngroup.com/press-room/dazn-samsung-tv-plus-erweitern-partnerschaft-2026/",
+      "access": "Nessun abbonamento; dispositivo Samsung compatibile",
+      "verifiedAt": "2026-08-24T12:00:00Z",
+      "note": "Occorre verificare quale competizione e quale gara venga scelta nel singolo weekend."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-br-cazetv",
+      "territories": [
+        "BR"
+      ],
+      "broadcaster": "CazéTV",
+      "status": "REVIEW",
+      "url": "https://www.youtube.com/@cazetv/streams",
+      "note": "Canale ufficiale monitorato; nessuna prova puntuale sufficiente 2026/27 nel catalogo corrente."
+    },
+    {
+      "id": "review-az-cbc",
+      "territories": [
+        "AZ"
+      ],
+      "broadcaster": "CBC Sport",
+      "status": "REVIEW",
+      "url": "https://cbcsport.az/",
+      "note": "Copertura riportata, ma nessuna gara gratuita puntuale verificata."
+    },
+    {
+      "id": "review-ro-digi",
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport / Digi Online",
+      "status": "REVIEW",
+      "url": "https://www.digisport.ro/fotbal/serie-a",
+      "note": "Copertura presente; accesso senza abbonamento non provato."
+    },
+    {
+      "id": "review-jp-abema",
+      "territories": [
+        "JP"
+      ],
+      "broadcaster": "ABEMA de DAZN",
+      "status": "REVIEW",
+      "url": "https://abema.tv/lp/abemadedazn-soccer-leaguelist",
+      "note": "Serie A presente nel servizio; la singola gara gratuita non è provata."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "no-espn-auto",
+      "rule": "I nomi emittente presenti nel feed ESPN sono soltanto indizi e non producono conferme automatiche."
+    },
+    {
+      "id": "cbs-mixed-page",
+      "rule": "La pagina CBS Golazo include anche schede Paramount+; ogni elemento resta candidato finché non è provato gratuito sul canale Golazo."
+    },
+    {
+      "id": "blocked-sources",
+      "rule": "Una fonte bloccata o non strutturata resta LIMITATA/DA VERIFICARE e non viene trasformata in conferma."
+    }
+  ]
+}

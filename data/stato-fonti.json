@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-24T22:41:28Z",
+  "counts": {
+    "total": 22,
+    "ok": 15,
+    "limited": 4,
+    "errors": 3,
+    "changed": 1
+  },
+  "sources": [
+    {
+      "id": "rsi-la2-live",
+      "name": "RSI LA 2 — diretta e palinsesto",
+      "territories": [
+        "CH"
+      ],
+      "url": "https://www.rsi.ch/play/tv/live/la-2?tvLiveId=livestream_La2",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:41Z",
+      "lastSuccessAt": "2026-08-24T22:40:41Z",
+      "contentHash": "cca7d8fc05d043839011b011bc90c50744939491319b544542c1dcd71884ccca",
+      "contentChanged": false,
+      "note": "Priorità Milan. Una voce di palinsesto diventa candidata, mai conferma automatica.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "error": null
+    },
+    {
+      "id": "rsi-access-faq",
+      "name": "RSI — FAQ accesso territoriale",
+      "territories": [
+        "CH"
+      ],
+      "url": "https://www.rsi.ch/la-rsi/faq/",
+      "official": true,
+      "role": "territorio e geoblocco",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:41Z",
+      "lastSuccessAt": "2026-08-24T22:40:41Z",
+      "contentHash": "5df3979a33b9d83c611321a364c65f3b0136b3de8c59b14e7d7a5532d6102c51",
+      "contentChanged": false,
+      "note": "RSI limita la diretta streaming alla Svizzera e dichiara che le protezioni intervengono anche con VPN.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "digi-program-1",
+      "name": "Digi Sport 1 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-1",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:41Z",
+      "lastSuccessAt": "2026-08-24T22:40:42Z",
+      "contentHash": "e5422ed04e418518ee3f5c49ff1d9acdf55532af9d6c1e189349979f1cd2e0a9",
+      "contentChanged": true,
+      "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
+      "status": "CHANGED",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "digi-program-2",
+      "name": "Digi Sport 2 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-2",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:42Z",
+      "lastSuccessAt": "2026-08-24T22:40:43Z",
+      "contentHash": "54fd305e972245ecfb91d5764f041e1c1d4c299bb494be33c86eed67b639474e",
+      "contentChanged": false,
+      "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "digi-program-3",
+      "name": "Digi Sport 3 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-3",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:43Z",
+      "lastSuccessAt": "2026-08-24T22:40:44Z",
+      "contentHash": "57fdb094b1d0218197fc0d0d1c1370730ff88ae17e8e70f57a0656d14ce5250b",
+      "contentChanged": false,
+      "note": "Fonte puntuale di Milan–Venezia del 28 agosto 2026; streaming riservato agli abbonati Digi Romania.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "digi-program-4",
+      "name": "Digi Sport 4 — palinsesto",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/program-tv/digisport-4",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:44Z",
+      "lastSuccessAt": "2026-08-24T22:40:45Z",
+      "contentHash": "4cbb1fb76bb346909450fd4c59047f55eb4550bc70b5fd7bfca67aa4590076b3",
+      "contentChanged": false,
+      "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "digi-access-ro",
+      "name": "Digi Sport — condizioni streaming Romania",
+      "territories": [
+        "RO"
+      ],
+      "url": "https://www.digisport.ro/fotbal/serie-a/juventus-genoa-2-0-acum-pe-digi-sport-2-ocazie-uriasa-ratata-de-mckennie-napoli-ac-milan-2145-dgs-2-4182027",
+      "official": true,
+      "role": "requisiti di accesso",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:45Z",
+      "lastSuccessAt": "2026-08-24T22:40:47Z",
+      "contentHash": "79a19969fdd7ad69d3fbaa0eb14fcb2daf9586fd375dad19124e106da4f1ba86",
+      "contentChanged": false,
+      "note": "La fonte indica la visione digisport.ro/app per gli abbonati Digi Romania: non è accesso liberamente gratuito.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "bbc-serie-a-2026",
+      "name": "BBC Media Centre — Serie A",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.bbc.com/mediacentre/2026/bbc-secures-expaned-serie-a-football-coverage",
+      "official": true,
+      "role": "diritti e prime selezioni",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:47Z",
+      "lastSuccessAt": "2026-08-24T22:40:47Z",
+      "contentHash": "5553e47f051ee6c35bfe833b7cafad9e043d3c901f9ee10a76fa1337911a2e92",
+      "contentChanged": false,
+      "note": "Fonte ufficiale del pacchetto BBC; le nuove selezioni possono essere pubblicate su pagine diverse.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "error": null
+    },
+    {
+      "id": "bbc-iplayer-terms",
+      "name": "BBC iPlayer — requisiti ufficiali",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.bbc.co.uk/iplayer/help/questions/supported-devices/use-mobile-tablet/",
+      "official": true,
+      "role": "territorio, account e licenza",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:47Z",
+      "lastSuccessAt": "2026-08-24T22:40:47Z",
+      "contentHash": "3151fca238ee9fe860359c020557dca5061403e4d78f6e6c4e6ad21ad84f5d5c",
+      "contentChanged": false,
+      "note": "BBC richiede presenza nel Regno Unito, account BBC e licenza TV per iPlayer.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "itvx-sport",
+      "name": "ITVX — categoria Sport",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.itv.com/watch/categories/sport",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:40:47Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Nessun diritto Serie A 2026/27 è presunto. Ogni eventuale rilevazione resta in revisione.",
+      "status": "ERROR",
+      "httpStatus": null,
+      "error": "The read operation timed out"
+    },
+    {
+      "id": "itvx-serie-a-history",
+      "name": "ITVX — pagina Serie A storica",
+      "territories": [
+        "GB"
+      ],
+      "url": "https://www.itv.com/watch/serie-a/10a5672/10a5672a0007",
+      "official": true,
+      "role": "controllo evidenza storica",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:05Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "La vecchia pagina del 2024 oggi restituisce pagina non trovata; non prova la stagione 2026/27.",
+      "status": "ERROR",
+      "httpStatus": null,
+      "error": "The read operation timed out"
+    },
+    {
+      "id": "cbs-golazo-schedule",
+      "name": "CBS Sports Golazo Network",
+      "territories": [
+        "US"
+      ],
+      "url": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "official": true,
+      "role": "pagina canale e possibili palinsesti",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:23Z",
+      "lastSuccessAt": "2026-08-24T22:41:24Z",
+      "contentHash": "fdbb25aa2e164c41602379dd1ffcb5366fdab4e5d50cf5b2139ec22792bf6167",
+      "contentChanged": false,
+      "note": "Pagina mista: ogni rilevazione è soltanto candidata, mai conferma automatica.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "cbs-serie-a-rights",
+      "name": "Paramount Press Express — diritti Serie A",
+      "territories": [
+        "US"
+      ],
+      "url": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=112947-cbs-sports-and-lega-serie-a-extend-us-media-rights-partnership-through-20262027-season-with-all-matches-to-continue-to-be-streamed-on-paramount",
+      "official": true,
+      "role": "diritti territoriali",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:24Z",
+      "lastSuccessAt": "2026-08-24T22:41:25Z",
+      "contentHash": "3aac82f63348ff34887b4dd151218e5f87906adc23f23926f9b637df29b23443",
+      "contentChanged": false,
+      "note": "Prova i diritti CBS, non la gratuità della singola partita.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "error": null
+    },
+    {
+      "id": "rtbf-auvio-live",
+      "name": "RTBF Auvio — Le Sport en Direct",
+      "territories": [
+        "BE"
+      ],
+      "url": "https://auvio.rtbf.be/widget/22635",
+      "official": true,
+      "role": "palinsesto prioritario Milan",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:25Z",
+      "lastSuccessAt": "2026-08-24T22:41:25Z",
+      "contentHash": "f817df11438fcb14ab035e3adcfc54679b355444d3851787b991955594a7f9e8",
+      "contentChanged": false,
+      "note": "Solo una pagina video live puntuale può provare la partita; score e articoli non bastano.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "rtbf-milan-scores",
+      "name": "RTBF Sports — pagina AC Milan",
+      "territories": [
+        "BE"
+      ],
+      "url": "https://www.rtbf.be/sport/direct/football/equipe/153/ac-milan",
+      "official": true,
+      "role": "risultati, non prova video",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": true,
+      "checkedAt": "2026-08-24T22:41:25Z",
+      "lastSuccessAt": "2026-08-24T22:41:27Z",
+      "contentHash": "ddc2c6583142a459cc830cf8ee360e43f62ff6527df16a986b7811d496fa2e41",
+      "contentChanged": false,
+      "note": "Pagina risultati/cronaca: non equivale a una diretta video Auvio.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "dazn-it-free-guide",
+      "name": "DAZN Italia — modalità gratuita",
+      "territories": [
+        "IT"
+      ],
+      "url": "https://www.dazn.com/it-IT/news/altro/come-vedere-una-partita-di-dazn-senza-nessun-abbonamento/142yv3mymomm81tpf2oaoawrt4",
+      "official": true,
+      "role": "condizioni di gratuità",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:27Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Conferma il meccanismo gratuito, non la gara di ogni turno.",
+      "status": "BLOCKED",
+      "httpStatus": 403,
+      "error": "HTTP 403"
+    },
+    {
+      "id": "sportytv-official",
+      "name": "SportyTV",
+      "territories": [
+        "NG",
+        "GH"
+      ],
+      "url": "https://www.sportytv.com/index.html",
+      "official": true,
+      "role": "canale free-to-air e competizioni",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:27Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Il sito generale non basta per attribuire una partita.",
+      "status": "ERROR",
+      "httpStatus": 404,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "dazn-fast-samsung",
+      "name": "DAZN FAST+ / Samsung TV Plus",
+      "territories": [
+        "DE",
+        "AT"
+      ],
+      "url": "https://dazngroup.com/press-room/dazn-samsung-tv-plus-erweitern-partnerschaft-2026/",
+      "official": true,
+      "role": "annuncio del canale gratuito",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:28Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Annuncio del pacchetto; selezione puntuale da verificare.",
+      "status": "BLOCKED",
+      "httpStatus": 403,
+      "error": "HTTP 403"
+    },
+    {
+      "id": "cazetv-streams",
+      "name": "CazéTV — dirette ufficiali",
+      "territories": [
+        "BR"
+      ],
+      "url": "https://www.youtube.com/@cazetv/streams",
+      "official": true,
+      "role": "palinsesto video ufficiale",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:28Z",
+      "lastSuccessAt": "2026-08-24T22:41:28Z",
+      "contentHash": "33c05bbb5a24f8ed7af253dc07d052b0fbe45e340e34cb8739a8d6994924ecd0",
+      "contentChanged": false,
+      "note": "Un video programmato deve essere verificato come diretta integrale e autorizzata.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "cbc-sport-az",
+      "name": "CBC Sport",
+      "territories": [
+        "AZ"
+      ],
+      "url": "https://cbcsport.az/",
+      "official": true,
+      "role": "palinsesto candidato",
+      "automation": "HEALTH_AND_CANDIDATES",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:28Z",
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Gratuità e singola gara devono essere provate.",
+      "status": "BLOCKED",
+      "httpStatus": 403,
+      "error": "HTTP 403"
+    },
+    {
+      "id": "abema-dazn-jp",
+      "name": "ABEMA de DAZN",
+      "territories": [
+        "JP"
+      ],
+      "url": "https://abema.tv/lp/abemadedazn-soccer-leaguelist",
+      "official": true,
+      "role": "copertura candidata",
+      "automation": "HEALTH_ONLY",
+      "priorityMilan": false,
+      "checkedAt": "2026-08-24T22:41:28Z",
+      "lastSuccessAt": "2026-08-24T22:41:28Z",
+      "contentHash": "ad944edd0709c3fc307a5311d707b75b0b7a0407ceb7bec7fa0c5f889221d737",
+      "contentChanged": false,
+      "note": "L’inclusione della Serie A non prova che la partita sia gratuita.",
+      "status": "OK",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "id": "livesoccertv-golazo",
+      "name": "Live Soccer TV — Golazo",
+      "territories": [
+        "US"
+      ],
+      "url": "https://www.livesoccertv.com/channels/cbs-sports-golazo/",
+      "official": false,
+      "role": "palinsesto secondario",
+      "automation": "LIMITED",
+      "priorityMilan": false,
+      "checkedAt": null,
+      "lastSuccessAt": null,
+      "contentHash": null,
+      "contentChanged": false,
+      "note": "Può essere usata editorialmente insieme a una prova ufficiale dei diritti.",
+      "status": "LIMITED",
+      "error": "La fonte applica protezioni anti-bot/Cloudflare e non è una dipendenza automatica affidabile."
+    }
+  ]
+}
