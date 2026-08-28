@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-08-28T01:47:15Z",
+  "updatedAt": "2026-08-28T21:56:34Z",
   "count": 380,
   "events": [
     {
@@ -274,8 +274,8 @@
       "id": "401874758",
       "round": 2,
       "date": "2026-08-28T18:45Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Milan",
         "fullName": "AC Milan",
@@ -290,7 +290,7 @@
         "color": "#000000",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "providerHints": [
         "Paramount+"
@@ -744,7 +744,7 @@
     {
       "id": "401874943",
       "round": 3,
-      "date": "2026-09-07T16:00Z",
+      "date": "2026-09-07T16:30Z",
       "status": "SCHEDULED",
       "statusText": "Scheduled",
       "home": {
