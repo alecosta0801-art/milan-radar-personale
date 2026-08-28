@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-08-26T14:31:05Z",
+  "updatedAt": "2026-08-28T01:47:15Z",
   "count": 380,
   "events": [
     {
@@ -371,7 +371,8 @@
       "homeScore": 0,
       "awayScore": 0,
       "providerHints": [
-        "CBSSN"
+        "CBSSN",
+        "Paramount+"
       ]
     },
     {
@@ -423,7 +424,8 @@
       "homeScore": 0,
       "awayScore": 0,
       "providerHints": [
-        "CBSSN"
+        "CBSSN",
+        "Paramount+"
       ]
     },
     {
@@ -449,7 +451,8 @@
       "homeScore": 0,
       "awayScore": 0,
       "providerHints": [
-        "CBSSN"
+        "CBSSN",
+        "Paramount+"
       ]
     },
     {
