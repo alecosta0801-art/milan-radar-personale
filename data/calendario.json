@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-08-31T12:25:57Z",
+  "updatedAt": "2026-08-31T18:25:56Z",
   "count": 380,
   "events": [
     {
@@ -846,24 +846,24 @@
       ]
     },
     {
-      "id": "401874750",
+      "id": "401874941",
       "round": 4,
-      "date": "2026-09-12T18:00Z",
+      "date": "2026-09-12T16:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Sassuolo",
-        "fullName": "Sassuolo",
-        "short": "SAS",
-        "color": "#0fa653",
-        "alternateColor": "#ADAEB0"
+        "name": "Lazio",
+        "fullName": "Lazio",
+        "short": "LAZ",
+        "color": "#74bde7",
+        "alternateColor": "#FFFFFF"
       },
       "away": {
-        "name": "Juventus",
-        "fullName": "Juventus",
-        "short": "JUV",
-        "color": "#000000",
-        "alternateColor": "#E8A2B0"
+        "name": "Milan",
+        "fullName": "AC Milan",
+        "short": "MIL",
+        "color": "#e4002b",
+        "alternateColor": "#ffffff"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -950,11 +950,37 @@
       ]
     },
     {
+      "id": "401874750",
+      "round": 4,
+      "date": "2026-09-13T18:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Sassuolo",
+        "fullName": "Sassuolo",
+        "short": "SAS",
+        "color": "#0fa653",
+        "alternateColor": "#ADAEB0"
+      },
+      "away": {
+        "name": "Juventus",
+        "fullName": "Juventus",
+        "short": "JUV",
+        "color": "#000000",
+        "alternateColor": "#E8A2B0"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
       "id": "401874933",
       "round": 4,
-      "date": "2026-09-13T18:00Z",
+      "date": "2026-09-14T16:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Como",
         "fullName": "Como",
@@ -976,37 +1002,11 @@
       ]
     },
     {
-      "id": "401874941",
-      "round": 4,
-      "date": "2026-09-13T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Lazio",
-        "fullName": "Lazio",
-        "short": "LAZ",
-        "color": "#74bde7",
-        "alternateColor": "#FFFFFF"
-      },
-      "away": {
-        "name": "Milan",
-        "fullName": "AC Milan",
-        "short": "MIL",
-        "color": "#e4002b",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
       "id": "401874950",
       "round": 4,
-      "date": "2026-09-13T18:00Z",
+      "date": "2026-09-14T16:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Torino",
         "fullName": "Torino",
