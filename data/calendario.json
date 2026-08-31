@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-08-30T18:25:48Z",
+  "updatedAt": "2026-08-31T00:26:01Z",
   "count": 380,
   "events": [
     {
@@ -405,8 +405,8 @@
       "id": "401874755",
       "round": 2,
       "date": "2026-08-30T16:30Z",
-      "status": "LIVE",
-      "statusText": "90'+1'",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Napoli",
         "fullName": "Napoli",
@@ -432,8 +432,8 @@
       "id": "401874742",
       "round": 2,
       "date": "2026-08-30T18:45Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Lazio",
         "fullName": "Lazio",
@@ -448,7 +448,7 @@
         "color": "#08305d",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "providerHints": [
         "CBSSN",
@@ -459,8 +459,8 @@
       "id": "401874938",
       "round": 2,
       "date": "2026-08-30T18:45Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Cagliari",
         "fullName": "Cagliari",
@@ -476,7 +476,7 @@
         "alternateColor": "#ffffff"
       },
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "providerHints": [
         "Paramount+"
       ]
