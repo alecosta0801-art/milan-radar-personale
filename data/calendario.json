@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-09-04T06:36:13Z",
+  "updatedAt": "2026-09-04T12:37:03Z",
   "count": 380,
   "events": [
     {
@@ -1314,167 +1314,11 @@
       ]
     },
     {
-      "id": "401874754",
-      "round": 6,
-      "date": "2026-10-11T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Napoli",
-        "fullName": "Napoli",
-        "short": "NAP",
-        "color": "#0677d2",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Frosinone",
-        "fullName": "Frosinone",
-        "short": "FRO",
-        "color": "#FACF08",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874763",
-      "round": 6,
-      "date": "2026-10-11T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Torino",
-        "fullName": "Torino",
-        "short": "TOR",
-        "color": "#9f0000",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Udinese",
-        "fullName": "Udinese",
-        "short": "UDI",
-        "color": "#19161D",
-        "alternateColor": "#0F1C3F"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874764",
-      "round": 6,
-      "date": "2026-10-11T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Cagliari",
-        "fullName": "Cagliari",
-        "short": "CAG",
-        "color": "#282846",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Juventus",
-        "fullName": "Juventus",
-        "short": "JUV",
-        "color": "#000000",
-        "alternateColor": "#E8A2B0"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874776",
-      "round": 6,
-      "date": "2026-10-11T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Lecce",
-        "fullName": "Lecce",
-        "short": "LEC",
-        "color": "#FCED0B",
-        "alternateColor": "#08305d"
-      },
-      "away": {
-        "name": "Bologna",
-        "fullName": "Bologna",
-        "short": "BOL",
-        "color": "#04043d",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874789",
-      "round": 6,
-      "date": "2026-10-11T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Sassuolo",
-        "fullName": "Sassuolo",
-        "short": "SAS",
-        "color": "#0fa653",
-        "alternateColor": "#ADAEB0"
-      },
-      "away": {
-        "name": "Milan",
-        "fullName": "AC Milan",
-        "short": "MIL",
-        "color": "#e4002b",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874940",
-      "round": 6,
-      "date": "2026-10-11T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Como",
-        "fullName": "Como",
-        "short": "COMO",
-        "color": "#4169E1",
-        "alternateColor": "#FFFFFF"
-      },
-      "away": {
-        "name": "AS Roma",
-        "fullName": "AS Roma",
-        "short": "ROMA",
-        "color": "#990a2c",
-        "alternateColor": "#F5F3E5"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
       "id": "401874947",
       "round": 6,
-      "date": "2026-10-11T18:00Z",
+      "date": "2026-10-10T13:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Genoa",
         "fullName": "Genoa",
@@ -1496,63 +1340,11 @@
       ]
     },
     {
-      "id": "401874951",
-      "round": 6,
-      "date": "2026-10-11T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Lazio",
-        "fullName": "Lazio",
-        "short": "LAZ",
-        "color": "#74bde7",
-        "alternateColor": "#FFFFFF"
-      },
-      "away": {
-        "name": "Monza",
-        "fullName": "Monza",
-        "short": "MON",
-        "color": "#C8142F",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401875005",
-      "round": 6,
-      "date": "2026-10-11T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Atalanta",
-        "fullName": "Atalanta",
-        "short": "ATA",
-        "color": "#1157bf",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Venezia",
-        "fullName": "Venezia",
-        "short": "VEN",
-        "color": "#000000",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
       "id": "401875021",
       "round": 6,
-      "date": "2026-10-11T18:00Z",
+      "date": "2026-10-10T16:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Inter Milan",
         "fullName": "Internazionale",
@@ -1574,11 +1366,245 @@
       ]
     },
     {
+      "id": "401874754",
+      "round": 6,
+      "date": "2026-10-10T18:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Napoli",
+        "fullName": "Napoli",
+        "short": "NAP",
+        "color": "#0677d2",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Frosinone",
+        "fullName": "Frosinone",
+        "short": "FRO",
+        "color": "#FACF08",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874940",
+      "round": 6,
+      "date": "2026-10-11T10:30Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Como",
+        "fullName": "Como",
+        "short": "COMO",
+        "color": "#4169E1",
+        "alternateColor": "#FFFFFF"
+      },
+      "away": {
+        "name": "AS Roma",
+        "fullName": "AS Roma",
+        "short": "ROMA",
+        "color": "#990a2c",
+        "alternateColor": "#F5F3E5"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874776",
+      "round": 6,
+      "date": "2026-10-11T13:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Lecce",
+        "fullName": "Lecce",
+        "short": "LEC",
+        "color": "#FCED0B",
+        "alternateColor": "#08305d"
+      },
+      "away": {
+        "name": "Bologna",
+        "fullName": "Bologna",
+        "short": "BOL",
+        "color": "#04043d",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874951",
+      "round": 6,
+      "date": "2026-10-11T13:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Lazio",
+        "fullName": "Lazio",
+        "short": "LAZ",
+        "color": "#74bde7",
+        "alternateColor": "#FFFFFF"
+      },
+      "away": {
+        "name": "Monza",
+        "fullName": "Monza",
+        "short": "MON",
+        "color": "#C8142F",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874789",
+      "round": 6,
+      "date": "2026-10-11T16:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Sassuolo",
+        "fullName": "Sassuolo",
+        "short": "SAS",
+        "color": "#0fa653",
+        "alternateColor": "#ADAEB0"
+      },
+      "away": {
+        "name": "Milan",
+        "fullName": "AC Milan",
+        "short": "MIL",
+        "color": "#e4002b",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874764",
+      "round": 6,
+      "date": "2026-10-11T18:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Cagliari",
+        "fullName": "Cagliari",
+        "short": "CAG",
+        "color": "#282846",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Juventus",
+        "fullName": "Juventus",
+        "short": "JUV",
+        "color": "#000000",
+        "alternateColor": "#E8A2B0"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401875005",
+      "round": 6,
+      "date": "2026-10-12T16:30Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Atalanta",
+        "fullName": "Atalanta",
+        "short": "ATA",
+        "color": "#1157bf",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Venezia",
+        "fullName": "Venezia",
+        "short": "VEN",
+        "color": "#000000",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874763",
+      "round": 6,
+      "date": "2026-10-12T18:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Torino",
+        "fullName": "Torino",
+        "short": "TOR",
+        "color": "#9f0000",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Udinese",
+        "fullName": "Udinese",
+        "short": "UDI",
+        "color": "#19161D",
+        "alternateColor": "#0F1C3F"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874959",
+      "round": 7,
+      "date": "2026-10-16T18:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Frosinone",
+        "fullName": "Frosinone",
+        "short": "FRO",
+        "color": "#FACF08",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Sassuolo",
+        "fullName": "Sassuolo",
+        "short": "SAS",
+        "color": "#0fa653",
+        "alternateColor": "#ADAEB0"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
       "id": "401874760",
       "round": 7,
-      "date": "2026-10-17T18:00Z",
+      "date": "2026-10-17T13:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Venezia",
         "fullName": "Venezia",
@@ -1600,23 +1626,23 @@
       ]
     },
     {
-      "id": "401874762",
+      "id": "401874953",
       "round": 7,
-      "date": "2026-10-17T18:00Z",
+      "date": "2026-10-17T16:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Monza",
-        "fullName": "Monza",
-        "short": "MON",
-        "color": "#C8142F",
+        "name": "Bologna",
+        "fullName": "Bologna",
+        "short": "BOL",
+        "color": "#04043d",
         "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Cagliari",
-        "fullName": "Cagliari",
-        "short": "CAG",
-        "color": "#282846",
+        "name": "Inter Milan",
+        "fullName": "Internazionale",
+        "short": "INT",
+        "color": "#00239c",
         "alternateColor": "#ffffff"
       },
       "homeScore": 0,
@@ -1626,24 +1652,24 @@
       ]
     },
     {
-      "id": "401874765",
+      "id": "401874935",
       "round": 7,
-      "date": "2026-10-17T18:00Z",
+      "date": "2026-10-17T18:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Juventus",
-        "fullName": "Juventus",
-        "short": "JUV",
-        "color": "#000000",
-        "alternateColor": "#E8A2B0"
+        "name": "AS Roma",
+        "fullName": "AS Roma",
+        "short": "ROMA",
+        "color": "#990a2c",
+        "alternateColor": "#F5F3E5"
       },
       "away": {
-        "name": "Lazio",
-        "fullName": "Lazio",
-        "short": "LAZ",
-        "color": "#74bde7",
-        "alternateColor": "#FFFFFF"
+        "name": "Genoa",
+        "fullName": "Genoa",
+        "short": "GEN",
+        "color": "#08305d",
+        "alternateColor": "#ffffff"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -1654,9 +1680,9 @@
     {
       "id": "401874771",
       "round": 7,
-      "date": "2026-10-17T18:00Z",
+      "date": "2026-10-18T10:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Udinese",
         "fullName": "Udinese",
@@ -1680,9 +1706,9 @@
     {
       "id": "401874774",
       "round": 7,
-      "date": "2026-10-17T18:00Z",
+      "date": "2026-10-18T13:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Fiorentina",
         "fullName": "Fiorentina",
@@ -1704,115 +1730,11 @@
       ]
     },
     {
-      "id": "401874784",
-      "round": 7,
-      "date": "2026-10-17T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Parma",
-        "fullName": "Parma",
-        "short": "PAR",
-        "color": "#19161D",
-        "alternateColor": "#ffdd30"
-      },
-      "away": {
-        "name": "Torino",
-        "fullName": "Torino",
-        "short": "TOR",
-        "color": "#9f0000",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874935",
-      "round": 7,
-      "date": "2026-10-17T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "AS Roma",
-        "fullName": "AS Roma",
-        "short": "ROMA",
-        "color": "#990a2c",
-        "alternateColor": "#F5F3E5"
-      },
-      "away": {
-        "name": "Genoa",
-        "fullName": "Genoa",
-        "short": "GEN",
-        "color": "#08305d",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874953",
-      "round": 7,
-      "date": "2026-10-17T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Bologna",
-        "fullName": "Bologna",
-        "short": "BOL",
-        "color": "#04043d",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Inter Milan",
-        "fullName": "Internazionale",
-        "short": "INT",
-        "color": "#00239c",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874959",
-      "round": 7,
-      "date": "2026-10-17T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Frosinone",
-        "fullName": "Frosinone",
-        "short": "FRO",
-        "color": "#FACF08",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Sassuolo",
-        "fullName": "Sassuolo",
-        "short": "SAS",
-        "color": "#0fa653",
-        "alternateColor": "#ADAEB0"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
       "id": "401874978",
       "round": 7,
-      "date": "2026-10-17T18:00Z",
+      "date": "2026-10-18T16:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Milan",
         "fullName": "AC Milan",
@@ -1834,128 +1756,76 @@
       ]
     },
     {
-      "id": "401874772",
-      "round": 8,
-      "date": "2026-10-25T18:00Z",
+      "id": "401874765",
+      "round": 7,
+      "date": "2026-10-18T18:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Lecce",
-        "fullName": "Lecce",
-        "short": "LEC",
-        "color": "#FCED0B",
-        "alternateColor": "#08305d"
-      },
-      "away": {
         "name": "Juventus",
         "fullName": "Juventus",
         "short": "JUV",
         "color": "#000000",
         "alternateColor": "#E8A2B0"
       },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874779",
-      "round": 8,
-      "date": "2026-10-25T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Udinese",
-        "fullName": "Udinese",
-        "short": "UDI",
-        "color": "#19161D",
-        "alternateColor": "#0F1C3F"
-      },
       "away": {
-        "name": "Milan",
-        "fullName": "AC Milan",
-        "short": "MIL",
-        "color": "#e4002b",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874948",
-      "round": 8,
-      "date": "2026-10-25T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Napoli",
-        "fullName": "Napoli",
-        "short": "NAP",
-        "color": "#0677d2",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "AS Roma",
-        "fullName": "AS Roma",
-        "short": "ROMA",
-        "color": "#990a2c",
-        "alternateColor": "#F5F3E5"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874952",
-      "round": 8,
-      "date": "2026-10-25T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Genoa",
-        "fullName": "Genoa",
-        "short": "GEN",
-        "color": "#08305d",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Venezia",
-        "fullName": "Venezia",
-        "short": "VEN",
-        "color": "#000000",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874955",
-      "round": 8,
-      "date": "2026-10-25T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
         "name": "Lazio",
         "fullName": "Lazio",
         "short": "LAZ",
         "color": "#74bde7",
         "alternateColor": "#FFFFFF"
       },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874762",
+      "round": 7,
+      "date": "2026-10-19T16:30Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Monza",
+        "fullName": "Monza",
+        "short": "MON",
+        "color": "#C8142F",
+        "alternateColor": "#ffffff"
+      },
       "away": {
+        "name": "Cagliari",
+        "fullName": "Cagliari",
+        "short": "CAG",
+        "color": "#282846",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874784",
+      "round": 7,
+      "date": "2026-10-19T18:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
         "name": "Parma",
         "fullName": "Parma",
         "short": "PAR",
         "color": "#19161D",
         "alternateColor": "#ffdd30"
+      },
+      "away": {
+        "name": "Torino",
+        "fullName": "Torino",
+        "short": "TOR",
+        "color": "#9f0000",
+        "alternateColor": "#ffffff"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -1966,9 +1836,9 @@
     {
       "id": "401874957",
       "round": 8,
-      "date": "2026-10-25T18:00Z",
+      "date": "2026-10-23T18:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Torino",
         "fullName": "Torino",
@@ -1992,9 +1862,9 @@
     {
       "id": "401874958",
       "round": 8,
-      "date": "2026-10-25T18:00Z",
+      "date": "2026-10-24T13:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Cagliari",
         "fullName": "Cagliari",
@@ -2018,9 +1888,9 @@
     {
       "id": "401874961",
       "round": 8,
-      "date": "2026-10-25T18:00Z",
+      "date": "2026-10-24T13:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Como",
         "fullName": "Como",
@@ -2042,24 +1912,50 @@
       ]
     },
     {
-      "id": "401874972",
+      "id": "401874948",
       "round": 8,
-      "date": "2026-10-25T18:00Z",
+      "date": "2026-10-24T16:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Atalanta",
-        "fullName": "Atalanta",
-        "short": "ATA",
-        "color": "#1157bf",
+        "name": "Napoli",
+        "fullName": "Napoli",
+        "short": "NAP",
+        "color": "#0677d2",
         "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Frosinone",
-        "fullName": "Frosinone",
-        "short": "FRO",
-        "color": "#FACF08",
-        "alternateColor": "#ffffff"
+        "name": "AS Roma",
+        "fullName": "AS Roma",
+        "short": "ROMA",
+        "color": "#990a2c",
+        "alternateColor": "#F5F3E5"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874955",
+      "round": 8,
+      "date": "2026-10-24T18:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Lazio",
+        "fullName": "Lazio",
+        "short": "LAZ",
+        "color": "#74bde7",
+        "alternateColor": "#FFFFFF"
+      },
+      "away": {
+        "name": "Parma",
+        "fullName": "Parma",
+        "short": "PAR",
+        "color": "#19161D",
+        "alternateColor": "#ffdd30"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -2070,9 +1966,9 @@
     {
       "id": "401875036",
       "round": 8,
-      "date": "2026-10-25T18:00Z",
+      "date": "2026-10-25T11:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Inter Milan",
         "fullName": "Internazionale",
@@ -2094,24 +1990,128 @@
       ]
     },
     {
-      "id": "401874773",
-      "round": 9,
-      "date": "2026-10-28T18:00Z",
+      "id": "401874952",
+      "round": 8,
+      "date": "2026-10-25T14:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
+        "name": "Genoa",
+        "fullName": "Genoa",
+        "short": "GEN",
+        "color": "#08305d",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
         "name": "Venezia",
         "fullName": "Venezia",
         "short": "VEN",
         "color": "#000000",
         "alternateColor": "#ffffff"
       },
-      "away": {
-        "name": "Inter Milan",
-        "fullName": "Internazionale",
-        "short": "INT",
-        "color": "#00239c",
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874972",
+      "round": 8,
+      "date": "2026-10-25T14:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Atalanta",
+        "fullName": "Atalanta",
+        "short": "ATA",
+        "color": "#1157bf",
         "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Frosinone",
+        "fullName": "Frosinone",
+        "short": "FRO",
+        "color": "#FACF08",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874772",
+      "round": 8,
+      "date": "2026-10-25T17:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Lecce",
+        "fullName": "Lecce",
+        "short": "LEC",
+        "color": "#FCED0B",
+        "alternateColor": "#08305d"
+      },
+      "away": {
+        "name": "Juventus",
+        "fullName": "Juventus",
+        "short": "JUV",
+        "color": "#000000",
+        "alternateColor": "#E8A2B0"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874779",
+      "round": 8,
+      "date": "2026-10-25T19:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Udinese",
+        "fullName": "Udinese",
+        "short": "UDI",
+        "color": "#19161D",
+        "alternateColor": "#0F1C3F"
+      },
+      "away": {
+        "name": "Milan",
+        "fullName": "AC Milan",
+        "short": "MIL",
+        "color": "#e4002b",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874980",
+      "round": 9,
+      "date": "2026-10-27T17:30Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Sassuolo",
+        "fullName": "Sassuolo",
+        "short": "SAS",
+        "color": "#0fa653",
+        "alternateColor": "#ADAEB0"
+      },
+      "away": {
+        "name": "Lazio",
+        "fullName": "Lazio",
+        "short": "LAZ",
+        "color": "#74bde7",
+        "alternateColor": "#FFFFFF"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -2122,9 +2122,9 @@
     {
       "id": "401874780",
       "round": 9,
-      "date": "2026-10-28T18:00Z",
+      "date": "2026-10-27T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "AS Roma",
         "fullName": "AS Roma",
@@ -2148,9 +2148,9 @@
     {
       "id": "401874786",
       "round": 9,
-      "date": "2026-10-28T18:00Z",
+      "date": "2026-10-27T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Torino",
         "fullName": "Torino",
@@ -2172,23 +2172,23 @@
       ]
     },
     {
-      "id": "401874799",
+      "id": "401874773",
       "round": 9,
-      "date": "2026-10-28T18:00Z",
+      "date": "2026-10-28T17:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Monza",
-        "fullName": "Monza",
-        "short": "MON",
-        "color": "#C8142F",
+        "name": "Venezia",
+        "fullName": "Venezia",
+        "short": "VEN",
+        "color": "#000000",
         "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Napoli",
-        "fullName": "Napoli",
-        "short": "NAP",
-        "color": "#0677d2",
+        "name": "Inter Milan",
+        "fullName": "Internazionale",
+        "short": "INT",
+        "color": "#00239c",
         "alternateColor": "#ffffff"
       },
       "homeScore": 0,
@@ -2200,9 +2200,9 @@
     {
       "id": "401874965",
       "round": 9,
-      "date": "2026-10-28T18:00Z",
+      "date": "2026-10-28T17:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Parma",
         "fullName": "Parma",
@@ -2224,23 +2224,23 @@
       ]
     },
     {
-      "id": "401874969",
+      "id": "401874993",
       "round": 9,
-      "date": "2026-10-28T18:00Z",
+      "date": "2026-10-28T17:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Fiorentina",
-        "fullName": "Fiorentina",
-        "short": "FIO",
-        "color": "#4c1d84",
+        "name": "Milan",
+        "fullName": "AC Milan",
+        "short": "MIL",
+        "color": "#e4002b",
         "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Atalanta",
-        "fullName": "Atalanta",
-        "short": "ATA",
-        "color": "#1157bf",
+        "name": "Bologna",
+        "fullName": "Bologna",
+        "short": "BOL",
+        "color": "#04043d",
         "alternateColor": "#ffffff"
       },
       "homeScore": 0,
@@ -2250,50 +2250,24 @@
       ]
     },
     {
-      "id": "401874976",
+      "id": "401874799",
       "round": 9,
-      "date": "2026-10-28T18:00Z",
+      "date": "2026-10-28T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Frosinone",
-        "fullName": "Frosinone",
-        "short": "FRO",
-        "color": "#FACF08",
+        "name": "Monza",
+        "fullName": "Monza",
+        "short": "MON",
+        "color": "#C8142F",
         "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Lecce",
-        "fullName": "Lecce",
-        "short": "LEC",
-        "color": "#FCED0B",
-        "alternateColor": "#08305d"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874980",
-      "round": 9,
-      "date": "2026-10-28T18:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Sassuolo",
-        "fullName": "Sassuolo",
-        "short": "SAS",
-        "color": "#0fa653",
-        "alternateColor": "#ADAEB0"
-      },
-      "away": {
-        "name": "Lazio",
-        "fullName": "Lazio",
-        "short": "LAZ",
-        "color": "#74bde7",
-        "alternateColor": "#FFFFFF"
+        "name": "Napoli",
+        "fullName": "Napoli",
+        "short": "NAP",
+        "color": "#0677d2",
+        "alternateColor": "#ffffff"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -2304,9 +2278,9 @@
     {
       "id": "401874988",
       "round": 9,
-      "date": "2026-10-28T18:00Z",
+      "date": "2026-10-28T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Genoa",
         "fullName": "Genoa",
@@ -2328,37 +2302,11 @@
       ]
     },
     {
-      "id": "401874993",
+      "id": "401874976",
       "round": 9,
-      "date": "2026-10-28T18:00Z",
+      "date": "2026-10-29T17:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Milan",
-        "fullName": "AC Milan",
-        "short": "MIL",
-        "color": "#e4002b",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Bologna",
-        "fullName": "Bologna",
-        "short": "BOL",
-        "color": "#04043d",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874782",
-      "round": 10,
-      "date": "2026-11-01T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Frosinone",
         "fullName": "Frosinone",
@@ -2367,11 +2315,11 @@
         "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Torino",
-        "fullName": "Torino",
-        "short": "TOR",
-        "color": "#9f0000",
-        "alternateColor": "#ffffff"
+        "name": "Lecce",
+        "fullName": "Lecce",
+        "short": "LEC",
+        "color": "#FCED0B",
+        "alternateColor": "#08305d"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -2380,23 +2328,23 @@
       ]
     },
     {
-      "id": "401874795",
-      "round": 10,
-      "date": "2026-11-01T20:00Z",
+      "id": "401874969",
+      "round": 9,
+      "date": "2026-10-29T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Milan",
-        "fullName": "AC Milan",
-        "short": "MIL",
-        "color": "#e4002b",
+        "name": "Fiorentina",
+        "fullName": "Fiorentina",
+        "short": "FIO",
+        "color": "#4c1d84",
         "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Inter Milan",
-        "fullName": "Internazionale",
-        "short": "INT",
-        "color": "#00239c",
+        "name": "Atalanta",
+        "fullName": "Atalanta",
+        "short": "ATA",
+        "color": "#1157bf",
         "alternateColor": "#ffffff"
       },
       "homeScore": 0,
@@ -2408,9 +2356,9 @@
     {
       "id": "401874798",
       "round": 10,
-      "date": "2026-11-01T20:00Z",
+      "date": "2026-10-31T14:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Bologna",
         "fullName": "Bologna",
@@ -2432,11 +2380,167 @@
       ]
     },
     {
+      "id": "401874990",
+      "round": 10,
+      "date": "2026-10-31T17:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Udinese",
+        "fullName": "Udinese",
+        "short": "UDI",
+        "color": "#19161D",
+        "alternateColor": "#0F1C3F"
+      },
+      "away": {
+        "name": "AS Roma",
+        "fullName": "AS Roma",
+        "short": "ROMA",
+        "color": "#990a2c",
+        "alternateColor": "#F5F3E5"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874795",
+      "round": 10,
+      "date": "2026-10-31T19:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Milan",
+        "fullName": "AC Milan",
+        "short": "MIL",
+        "color": "#e4002b",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Inter Milan",
+        "fullName": "Internazionale",
+        "short": "INT",
+        "color": "#00239c",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401875002",
+      "round": 10,
+      "date": "2026-11-01T11:30Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Como",
+        "fullName": "Como",
+        "short": "COMO",
+        "color": "#4169E1",
+        "alternateColor": "#FFFFFF"
+      },
+      "away": {
+        "name": "Venezia",
+        "fullName": "Venezia",
+        "short": "VEN",
+        "color": "#000000",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874782",
+      "round": 10,
+      "date": "2026-11-01T14:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Frosinone",
+        "fullName": "Frosinone",
+        "short": "FRO",
+        "color": "#FACF08",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Torino",
+        "fullName": "Torino",
+        "short": "TOR",
+        "color": "#9f0000",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874983",
+      "round": 10,
+      "date": "2026-11-01T14:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Lazio",
+        "fullName": "Lazio",
+        "short": "LAZ",
+        "color": "#74bde7",
+        "alternateColor": "#FFFFFF"
+      },
+      "away": {
+        "name": "Cagliari",
+        "fullName": "Cagliari",
+        "short": "CAG",
+        "color": "#282846",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874968",
+      "round": 10,
+      "date": "2026-11-01T17:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Lecce",
+        "fullName": "Lecce",
+        "short": "LEC",
+        "color": "#FCED0B",
+        "alternateColor": "#08305d"
+      },
+      "away": {
+        "name": "Genoa",
+        "fullName": "Genoa",
+        "short": "GEN",
+        "color": "#08305d",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
       "id": "401874949",
       "round": 10,
-      "date": "2026-11-01T20:00Z",
+      "date": "2026-11-01T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Juventus",
         "fullName": "Juventus",
@@ -2460,9 +2564,9 @@
     {
       "id": "401874963",
       "round": 10,
-      "date": "2026-11-01T20:00Z",
+      "date": "2026-11-02T17:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Sassuolo",
         "fullName": "Sassuolo",
@@ -2475,32 +2579,6 @@
         "fullName": "Fiorentina",
         "short": "FIO",
         "color": "#4c1d84",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874968",
-      "round": 10,
-      "date": "2026-11-01T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Lecce",
-        "fullName": "Lecce",
-        "short": "LEC",
-        "color": "#FCED0B",
-        "alternateColor": "#08305d"
-      },
-      "away": {
-        "name": "Genoa",
-        "fullName": "Genoa",
-        "short": "GEN",
-        "color": "#08305d",
         "alternateColor": "#ffffff"
       },
       "homeScore": 0,
@@ -2512,9 +2590,9 @@
     {
       "id": "401874971",
       "round": 10,
-      "date": "2026-11-01T20:00Z",
+      "date": "2026-11-02T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Atalanta",
         "fullName": "Atalanta",
@@ -2536,76 +2614,24 @@
       ]
     },
     {
-      "id": "401874983",
-      "round": 10,
-      "date": "2026-11-01T20:00Z",
+      "id": "401874815",
+      "round": 11,
+      "date": "2026-11-06T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Lazio",
-        "fullName": "Lazio",
-        "short": "LAZ",
-        "color": "#74bde7",
-        "alternateColor": "#FFFFFF"
-      },
-      "away": {
-        "name": "Cagliari",
-        "fullName": "Cagliari",
-        "short": "CAG",
-        "color": "#282846",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874990",
-      "round": 10,
-      "date": "2026-11-01T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Udinese",
-        "fullName": "Udinese",
-        "short": "UDI",
-        "color": "#19161D",
-        "alternateColor": "#0F1C3F"
-      },
-      "away": {
-        "name": "AS Roma",
-        "fullName": "AS Roma",
-        "short": "ROMA",
-        "color": "#990a2c",
-        "alternateColor": "#F5F3E5"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401875002",
-      "round": 10,
-      "date": "2026-11-01T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Como",
-        "fullName": "Como",
-        "short": "COMO",
-        "color": "#4169E1",
-        "alternateColor": "#FFFFFF"
-      },
-      "away": {
         "name": "Venezia",
         "fullName": "Venezia",
         "short": "VEN",
         "color": "#000000",
         "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Udinese",
+        "fullName": "Udinese",
+        "short": "UDI",
+        "color": "#19161D",
+        "alternateColor": "#0F1C3F"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -2616,9 +2642,9 @@
     {
       "id": "401874791",
       "round": 11,
-      "date": "2026-11-08T20:00Z",
+      "date": "2026-11-07T14:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Cagliari",
         "fullName": "Cagliari",
@@ -2640,23 +2666,49 @@
       ]
     },
     {
-      "id": "401874800",
+      "id": "401874811",
       "round": 11,
-      "date": "2026-11-08T20:00Z",
+      "date": "2026-11-07T14:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Monza",
-        "fullName": "Monza",
-        "short": "MON",
-        "color": "#C8142F",
+        "name": "Torino",
+        "fullName": "Torino",
+        "short": "TOR",
+        "color": "#9f0000",
         "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Atalanta",
-        "fullName": "Atalanta",
-        "short": "ATA",
-        "color": "#1157bf",
+        "name": "Lecce",
+        "fullName": "Lecce",
+        "short": "LEC",
+        "color": "#FCED0B",
+        "alternateColor": "#08305d"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874974",
+      "round": 11,
+      "date": "2026-11-07T17:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Parma",
+        "fullName": "Parma",
+        "short": "PAR",
+        "color": "#19161D",
+        "alternateColor": "#ffdd30"
+      },
+      "away": {
+        "name": "Bologna",
+        "fullName": "Bologna",
+        "short": "BOL",
+        "color": "#04043d",
         "alternateColor": "#ffffff"
       },
       "homeScore": 0,
@@ -2668,9 +2720,9 @@
     {
       "id": "401874803",
       "round": 11,
-      "date": "2026-11-08T20:00Z",
+      "date": "2026-11-07T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "AS Roma",
         "fullName": "AS Roma",
@@ -2692,37 +2744,11 @@
       ]
     },
     {
-      "id": "401874808",
-      "round": 11,
-      "date": "2026-11-08T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Inter Milan",
-        "fullName": "Internazionale",
-        "short": "INT",
-        "color": "#00239c",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Como",
-        "fullName": "Como",
-        "short": "COMO",
-        "color": "#4169E1",
-        "alternateColor": "#FFFFFF"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
       "id": "401874810",
       "round": 11,
-      "date": "2026-11-08T20:00Z",
+      "date": "2026-11-08T11:30Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Napoli",
         "fullName": "Napoli",
@@ -2744,102 +2770,24 @@
       ]
     },
     {
-      "id": "401874811",
+      "id": "401874800",
       "round": 11,
-      "date": "2026-11-08T20:00Z",
+      "date": "2026-11-08T14:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Torino",
-        "fullName": "Torino",
-        "short": "TOR",
-        "color": "#9f0000",
+        "name": "Monza",
+        "fullName": "Monza",
+        "short": "MON",
+        "color": "#C8142F",
         "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Lecce",
-        "fullName": "Lecce",
-        "short": "LEC",
-        "color": "#FCED0B",
-        "alternateColor": "#08305d"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874815",
-      "round": 11,
-      "date": "2026-11-08T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Venezia",
-        "fullName": "Venezia",
-        "short": "VEN",
-        "color": "#000000",
+        "name": "Atalanta",
+        "fullName": "Atalanta",
+        "short": "ATA",
+        "color": "#1157bf",
         "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Udinese",
-        "fullName": "Udinese",
-        "short": "UDI",
-        "color": "#19161D",
-        "alternateColor": "#0F1C3F"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401874974",
-      "round": 11,
-      "date": "2026-11-08T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Parma",
-        "fullName": "Parma",
-        "short": "PAR",
-        "color": "#19161D",
-        "alternateColor": "#ffdd30"
-      },
-      "away": {
-        "name": "Bologna",
-        "fullName": "Bologna",
-        "short": "BOL",
-        "color": "#04043d",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401875003",
-      "round": 11,
-      "date": "2026-11-08T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Fiorentina",
-        "fullName": "Fiorentina",
-        "short": "FIO",
-        "color": "#4c1d84",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Juventus",
-        "fullName": "Juventus",
-        "short": "JUV",
-        "color": "#000000",
-        "alternateColor": "#E8A2B0"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -2850,9 +2798,9 @@
     {
       "id": "401875018",
       "round": 11,
-      "date": "2026-11-08T20:00Z",
+      "date": "2026-11-08T14:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Genoa",
         "fullName": "Genoa",
@@ -2874,24 +2822,24 @@
       ]
     },
     {
-      "id": "401874960",
-      "round": 12,
-      "date": "2026-11-22T20:00Z",
+      "id": "401874808",
+      "round": 11,
+      "date": "2026-11-08T17:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Sassuolo",
-        "fullName": "Sassuolo",
-        "short": "SAS",
-        "color": "#0fa653",
-        "alternateColor": "#ADAEB0"
+        "name": "Inter Milan",
+        "fullName": "Internazionale",
+        "short": "INT",
+        "color": "#00239c",
+        "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "Genoa",
-        "fullName": "Genoa",
-        "short": "GEN",
-        "color": "#08305d",
-        "alternateColor": "#ffffff"
+        "name": "Como",
+        "fullName": "Como",
+        "short": "COMO",
+        "color": "#4169E1",
+        "alternateColor": "#FFFFFF"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -2900,24 +2848,24 @@
       ]
     },
     {
-      "id": "401874967",
-      "round": 12,
-      "date": "2026-11-22T20:00Z",
+      "id": "401875003",
+      "round": 11,
+      "date": "2026-11-08T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
-        "name": "Parma",
-        "fullName": "Parma",
-        "short": "PAR",
-        "color": "#19161D",
-        "alternateColor": "#ffdd30"
+        "name": "Fiorentina",
+        "fullName": "Fiorentina",
+        "short": "FIO",
+        "color": "#4c1d84",
+        "alternateColor": "#ffffff"
       },
       "away": {
-        "name": "AS Roma",
-        "fullName": "AS Roma",
-        "short": "ROMA",
-        "color": "#990a2c",
-        "alternateColor": "#F5F3E5"
+        "name": "Juventus",
+        "fullName": "Juventus",
+        "short": "JUV",
+        "color": "#000000",
+        "alternateColor": "#E8A2B0"
       },
       "homeScore": 0,
       "awayScore": 0,
@@ -2928,9 +2876,9 @@
     {
       "id": "401874981",
       "round": 12,
-      "date": "2026-11-22T20:00Z",
+      "date": "2026-11-21T14:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Lazio",
         "fullName": "Lazio",
@@ -2952,141 +2900,11 @@
       ]
     },
     {
-      "id": "401874989",
-      "round": 12,
-      "date": "2026-11-22T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Milan",
-        "fullName": "AC Milan",
-        "short": "MIL",
-        "color": "#e4002b",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Frosinone",
-        "fullName": "Frosinone",
-        "short": "FRO",
-        "color": "#FACF08",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401875001",
-      "round": 12,
-      "date": "2026-11-22T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Atalanta",
-        "fullName": "Atalanta",
-        "short": "ATA",
-        "color": "#1157bf",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Inter Milan",
-        "fullName": "Internazionale",
-        "short": "INT",
-        "color": "#00239c",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401875008",
-      "round": 12,
-      "date": "2026-11-22T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Juventus",
-        "fullName": "Juventus",
-        "short": "JUV",
-        "color": "#000000",
-        "alternateColor": "#E8A2B0"
-      },
-      "away": {
-        "name": "Venezia",
-        "fullName": "Venezia",
-        "short": "VEN",
-        "color": "#000000",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401875009",
-      "round": 12,
-      "date": "2026-11-22T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Monza",
-        "fullName": "Monza",
-        "short": "MON",
-        "color": "#C8142F",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Fiorentina",
-        "fullName": "Fiorentina",
-        "short": "FIO",
-        "color": "#4c1d84",
-        "alternateColor": "#ffffff"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
-      "id": "401875047",
-      "round": 12,
-      "date": "2026-11-22T20:00Z",
-      "status": "SCHEDULED",
-      "statusText": "TBD",
-      "home": {
-        "name": "Bologna",
-        "fullName": "Bologna",
-        "short": "BOL",
-        "color": "#04043d",
-        "alternateColor": "#ffffff"
-      },
-      "away": {
-        "name": "Udinese",
-        "fullName": "Udinese",
-        "short": "UDI",
-        "color": "#19161D",
-        "alternateColor": "#0F1C3F"
-      },
-      "homeScore": 0,
-      "awayScore": 0,
-      "providerHints": [
-        "Paramount+"
-      ]
-    },
-    {
       "id": "401875056",
       "round": 12,
-      "date": "2026-11-22T20:00Z",
+      "date": "2026-11-21T14:00Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Como",
         "fullName": "Como",
@@ -3108,11 +2926,37 @@
       ]
     },
     {
+      "id": "401874967",
+      "round": 12,
+      "date": "2026-11-21T17:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Parma",
+        "fullName": "Parma",
+        "short": "PAR",
+        "color": "#19161D",
+        "alternateColor": "#ffdd30"
+      },
+      "away": {
+        "name": "AS Roma",
+        "fullName": "AS Roma",
+        "short": "ROMA",
+        "color": "#990a2c",
+        "alternateColor": "#F5F3E5"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
       "id": "401875067",
       "round": 12,
-      "date": "2026-11-22T20:00Z",
+      "date": "2026-11-21T19:45Z",
       "status": "SCHEDULED",
-      "statusText": "TBD",
+      "statusText": "Scheduled",
       "home": {
         "name": "Napoli",
         "fullName": "Napoli",
@@ -3125,6 +2969,162 @@
         "fullName": "Torino",
         "short": "TOR",
         "color": "#9f0000",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874960",
+      "round": 12,
+      "date": "2026-11-22T11:30Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Sassuolo",
+        "fullName": "Sassuolo",
+        "short": "SAS",
+        "color": "#0fa653",
+        "alternateColor": "#ADAEB0"
+      },
+      "away": {
+        "name": "Genoa",
+        "fullName": "Genoa",
+        "short": "GEN",
+        "color": "#08305d",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401874989",
+      "round": 12,
+      "date": "2026-11-22T14:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Milan",
+        "fullName": "AC Milan",
+        "short": "MIL",
+        "color": "#e4002b",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Frosinone",
+        "fullName": "Frosinone",
+        "short": "FRO",
+        "color": "#FACF08",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401875047",
+      "round": 12,
+      "date": "2026-11-22T17:00Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Bologna",
+        "fullName": "Bologna",
+        "short": "BOL",
+        "color": "#04043d",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Udinese",
+        "fullName": "Udinese",
+        "short": "UDI",
+        "color": "#19161D",
+        "alternateColor": "#0F1C3F"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401875001",
+      "round": 12,
+      "date": "2026-11-22T19:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Atalanta",
+        "fullName": "Atalanta",
+        "short": "ATA",
+        "color": "#1157bf",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Inter Milan",
+        "fullName": "Internazionale",
+        "short": "INT",
+        "color": "#00239c",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401875009",
+      "round": 12,
+      "date": "2026-11-23T17:30Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Monza",
+        "fullName": "Monza",
+        "short": "MON",
+        "color": "#C8142F",
+        "alternateColor": "#ffffff"
+      },
+      "away": {
+        "name": "Fiorentina",
+        "fullName": "Fiorentina",
+        "short": "FIO",
+        "color": "#4c1d84",
+        "alternateColor": "#ffffff"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "providerHints": [
+        "Paramount+"
+      ]
+    },
+    {
+      "id": "401875008",
+      "round": 12,
+      "date": "2026-11-23T19:45Z",
+      "status": "SCHEDULED",
+      "statusText": "Scheduled",
+      "home": {
+        "name": "Juventus",
+        "fullName": "Juventus",
+        "short": "JUV",
+        "color": "#000000",
+        "alternateColor": "#E8A2B0"
+      },
+      "away": {
+        "name": "Venezia",
+        "fullName": "Venezia",
+        "short": "VEN",
+        "color": "#000000",
         "alternateColor": "#ffffff"
       },
       "homeScore": 0,
