@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-09-03T18:34:33Z",
+  "updatedAt": "2026-09-04T00:37:48Z",
   "count": 380,
   "events": [
     {
