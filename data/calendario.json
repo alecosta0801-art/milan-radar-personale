@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-09-05T18:32:02Z",
+  "updatedAt": "2026-09-06T00:41:56Z",
   "count": 380,
   "events": [
     {
@@ -615,8 +615,8 @@
       "id": "401874781",
       "round": 3,
       "date": "2026-09-05T18:45Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "AS Roma",
         "fullName": "AS Roma",
@@ -631,8 +631,8 @@
         "color": "#1157bf",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "providerHints": [
         "Paramount+"
       ]
