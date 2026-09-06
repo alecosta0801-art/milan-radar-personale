@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-09-06T12:34:44Z",
+  "updatedAt": "2026-09-06T18:31:23Z",
   "count": 380,
   "events": [
     {
@@ -641,8 +641,8 @@
       "id": "401874768",
       "round": 3,
       "date": "2026-09-06T13:00Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Frosinone",
         "fullName": "Frosinone",
@@ -657,8 +657,8 @@
         "color": "#000000",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 2,
       "providerHints": [
         "Paramount+"
       ]
@@ -667,8 +667,8 @@
       "id": "401874987",
       "round": 3,
       "date": "2026-09-06T13:00Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Parma",
         "fullName": "Parma",
@@ -683,8 +683,8 @@
         "color": "#C8142F",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "providerHints": [
         "Paramount+"
       ]
@@ -693,8 +693,8 @@
       "id": "401874751",
       "round": 3,
       "date": "2026-09-06T16:00Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Bologna",
         "fullName": "Bologna",
@@ -709,8 +709,8 @@
         "color": "#0fa653",
         "alternateColor": "#ADAEB0"
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 2,
       "providerHints": [
         "Paramount+"
       ]
