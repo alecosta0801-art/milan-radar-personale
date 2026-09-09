@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T06:38:19Z",
+  "generatedAt": "2026-09-09T12:38:52Z",
   "policy": "REVIEW_ONLY",
   "note": "Questi elementi non sono conferme e non appaiono tra le dirette gratuite finché non vengono revisionati.",
   "candidates": [
@@ -15,7 +15,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-09T06:38:15Z",
+      "detectedAt": "2026-09-09T12:38:45Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -34,7 +34,7 @@
       "broadcaster": "Digi Sport 2 — palinsesto",
       "sourceId": "digi-program-2",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-09-09T06:38:09Z",
+      "detectedAt": "2026-09-09T12:38:37Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -52,7 +52,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-09T06:38:15Z",
+      "detectedAt": "2026-09-09T12:38:45Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -71,7 +71,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-09T06:38:10Z",
+      "detectedAt": "2026-09-09T12:38:38Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -89,7 +89,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-09T06:38:12Z",
+      "detectedAt": "2026-09-09T12:38:40Z",
       "mediaSignals": [],
       "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
       "automaticConfirmation": false
@@ -105,7 +105,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-09T06:38:10Z",
+      "detectedAt": "2026-09-09T12:38:38Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -123,7 +123,7 @@
       "broadcaster": "Digi Sport 2 — palinsesto",
       "sourceId": "digi-program-2",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-09-09T06:38:09Z",
+      "detectedAt": "2026-09-09T12:38:37Z",
       "mediaSignals": [
         "LIVE",
         "HIGHLIGHTS"
@@ -142,7 +142,7 @@
       "broadcaster": "Digi Sport 2 — palinsesto",
       "sourceId": "digi-program-2",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-09-09T06:38:09Z",
+      "detectedAt": "2026-09-09T12:38:37Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -160,7 +160,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-09T06:38:10Z",
+      "detectedAt": "2026-09-09T12:38:38Z",
       "mediaSignals": [
         "LIVE",
         "HIGHLIGHTS"
@@ -179,7 +179,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-09T06:38:10Z",
+      "detectedAt": "2026-09-09T12:38:38Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -197,7 +197,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-09T06:38:15Z",
+      "detectedAt": "2026-09-09T12:38:45Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -216,7 +216,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-09T06:38:15Z",
+      "detectedAt": "2026-09-09T12:38:45Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -235,7 +235,7 @@
       "broadcaster": "Digi Sport 2 — palinsesto",
       "sourceId": "digi-program-2",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-09-09T06:38:09Z",
+      "detectedAt": "2026-09-09T12:38:37Z",
       "mediaSignals": [
         "LIVE",
         "HIGHLIGHTS"
@@ -254,7 +254,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-09T06:38:15Z",
+      "detectedAt": "2026-09-09T12:38:45Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -273,7 +273,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-09T06:38:10Z",
+      "detectedAt": "2026-09-09T12:38:38Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -291,25 +291,7 @@
       "broadcaster": "Digi Sport 1 — palinsesto",
       "sourceId": "digi-program-1",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-1",
-      "detectedAt": "2026-09-09T06:38:08Z",
-      "mediaSignals": [
-        "LIVE"
-      ],
-      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
-      "automaticConfirmation": false
-    },
-    {
-      "id": "auto-digi-program-2-401874991",
-      "state": "REVIEW",
-      "eventId": "401874991",
-      "priorityTeam": null,
-      "territories": [
-        "RO"
-      ],
-      "broadcaster": "Digi Sport 2 — palinsesto",
-      "sourceId": "digi-program-2",
-      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-09-09T06:38:09Z",
+      "detectedAt": "2026-09-09T12:38:35Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -327,7 +309,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-09T06:38:12Z",
+      "detectedAt": "2026-09-09T12:38:40Z",
       "mediaSignals": [
         "LIVE"
       ],
