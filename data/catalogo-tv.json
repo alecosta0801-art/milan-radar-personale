@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "product": "Milan Radar by CalcioDove",
   "season": "2026-27",
-  "generatedAt": "2026-09-11T12:37:42Z",
+  "generatedAt": "2026-09-11T18:34:42Z",
   "editorialUpdatedAt": "2026-08-24T12:00:00Z",
   "coverage": {
     "territoriesCompared": 249,
@@ -13,7 +13,7 @@
     "sourcesErrored": 2,
     "confirmedAssignments": 12,
     "selectivePrograms": 5,
-    "reviewCandidates": 22,
+    "reviewCandidates": 23,
     "meaning": "Ogni territorio è confrontato con il catalogo e le fonti registrate. Non esiste un registro mondiale ufficiale che provi l'assenza assoluta di altre trasmissioni."
   },
   "policy": {
@@ -493,7 +493,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-11T12:37:37Z",
+      "detectedAt": "2026-09-11T18:34:34Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -512,7 +512,7 @@
       "broadcaster": "Digi Sport 2 — palinsesto",
       "sourceId": "digi-program-2",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-09-11T12:37:29Z",
+      "detectedAt": "2026-09-11T18:34:25Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -530,7 +530,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-11T12:37:37Z",
+      "detectedAt": "2026-09-11T18:34:34Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -549,7 +549,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-11T12:37:30Z",
+      "detectedAt": "2026-09-11T18:34:27Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -567,7 +567,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-11T12:37:31Z",
+      "detectedAt": "2026-09-11T18:34:28Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -585,7 +585,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-11T12:37:30Z",
+      "detectedAt": "2026-09-11T18:34:27Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -603,7 +603,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-11T12:37:31Z",
+      "detectedAt": "2026-09-11T18:34:28Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -621,10 +621,27 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-11T12:37:37Z",
+      "detectedAt": "2026-09-11T18:34:34Z",
       "mediaSignals": [
-        "LIVE",
-        "HIGHLIGHTS"
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-1-401874759",
+      "state": "REVIEW",
+      "eventId": "401874759",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 1 — palinsesto",
+      "sourceId": "digi-program-1",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-1",
+      "detectedAt": "2026-09-11T18:34:24Z",
+      "mediaSignals": [
+        "LIVE"
       ],
       "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
       "automaticConfirmation": false
@@ -640,7 +657,7 @@
       "broadcaster": "Digi Sport 2 — palinsesto",
       "sourceId": "digi-program-2",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-09-11T12:37:29Z",
+      "detectedAt": "2026-09-11T18:34:25Z",
       "mediaSignals": [
         "LIVE",
         "HIGHLIGHTS"
@@ -659,7 +676,7 @@
       "broadcaster": "Digi Sport 2 — palinsesto",
       "sourceId": "digi-program-2",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-09-11T12:37:29Z",
+      "detectedAt": "2026-09-11T18:34:25Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -677,7 +694,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-11T12:37:30Z",
+      "detectedAt": "2026-09-11T18:34:27Z",
       "mediaSignals": [
         "LIVE",
         "HIGHLIGHTS"
@@ -696,7 +713,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-11T12:37:31Z",
+      "detectedAt": "2026-09-11T18:34:28Z",
       "mediaSignals": [
         "LIVE",
         "HIGHLIGHTS"
@@ -715,7 +732,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-11T12:37:30Z",
+      "detectedAt": "2026-09-11T18:34:27Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -733,7 +750,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-11T12:37:31Z",
+      "detectedAt": "2026-09-11T18:34:28Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -751,7 +768,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-11T12:37:37Z",
+      "detectedAt": "2026-09-11T18:34:34Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -770,7 +787,7 @@
       "broadcaster": "Digi Sport 3 — palinsesto",
       "sourceId": "digi-program-3",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
-      "detectedAt": "2026-09-11T12:37:30Z",
+      "detectedAt": "2026-09-11T18:34:27Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -788,7 +805,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-11T12:37:31Z",
+      "detectedAt": "2026-09-11T18:34:28Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -806,7 +823,7 @@
       "broadcaster": "Digi Sport 1 — palinsesto",
       "sourceId": "digi-program-1",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-1",
-      "detectedAt": "2026-09-11T12:37:27Z",
+      "detectedAt": "2026-09-11T18:34:24Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -1380,9 +1397,9 @@
       "role": "palinsesto prioritario Milan",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:23Z",
-      "lastSuccessAt": "2026-09-11T12:37:24Z",
-      "contentHash": "35ed23d5185338626d8433d2af6388cedc95594d5aa1280f0d090fe212f57890",
+      "checkedAt": "2026-09-11T18:34:18Z",
+      "lastSuccessAt": "2026-09-11T18:34:19Z",
+      "contentHash": "cc9fdfeee869637a7ca4f7a5e0f6a2583815cf0e9b64f78f15f059b3a417ff3d",
       "contentChanged": true,
       "note": "Priorità Milan. Una voce di palinsesto diventa candidata, mai conferma automatica.",
       "status": "CHANGED",
@@ -1401,8 +1418,8 @@
       "role": "territorio e geoblocco",
       "automation": "HEALTH_ONLY",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:24Z",
-      "lastSuccessAt": "2026-09-11T12:37:26Z",
+      "checkedAt": "2026-09-11T18:34:19Z",
+      "lastSuccessAt": "2026-09-11T18:34:23Z",
       "contentHash": "5df3979a33b9d83c611321a364c65f3b0136b3de8c59b14e7d7a5532d6102c51",
       "contentChanged": false,
       "note": "RSI limita la diretta streaming alla Svizzera e dichiara che le protezioni intervengono anche con VPN.",
@@ -1422,9 +1439,9 @@
       "role": "palinsesto prioritario Milan",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:26Z",
-      "lastSuccessAt": "2026-09-11T12:37:27Z",
-      "contentHash": "ed529403d844dd9af32e7085f24bea93acda0b716206ae978c853525f4b44ee5",
+      "checkedAt": "2026-09-11T18:34:23Z",
+      "lastSuccessAt": "2026-09-11T18:34:24Z",
+      "contentHash": "a5520237a4d04cf00e632d112f32efbf3a6460ab8ea95113af0dbeaf88531160",
       "contentChanged": true,
       "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
       "status": "CHANGED",
@@ -1443,9 +1460,9 @@
       "role": "palinsesto prioritario Milan",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:27Z",
-      "lastSuccessAt": "2026-09-11T12:37:29Z",
-      "contentHash": "2d3ff872005578866db6cd9d59709641d3db85f86b16eb8727dff051da7ae623",
+      "checkedAt": "2026-09-11T18:34:24Z",
+      "lastSuccessAt": "2026-09-11T18:34:25Z",
+      "contentHash": "1c93d2d1823333bcc25782efc79f60545ff7e589943bc115187ad1d9306dda2f",
       "contentChanged": true,
       "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
       "status": "CHANGED",
@@ -1464,9 +1481,9 @@
       "role": "palinsesto prioritario Milan",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:29Z",
-      "lastSuccessAt": "2026-09-11T12:37:30Z",
-      "contentHash": "d9b1dee46408bbe2ba506ec27b300f29431514fa16adc7c49dccff2eb97dc57f",
+      "checkedAt": "2026-09-11T18:34:25Z",
+      "lastSuccessAt": "2026-09-11T18:34:27Z",
+      "contentHash": "2d6e4315a578a7528daa28f666497c73860d8eff67d0be7b432a5d146e10a3ff",
       "contentChanged": true,
       "note": "Fonte puntuale di Milan–Venezia del 28 agosto 2026; streaming riservato agli abbonati Digi Romania.",
       "status": "CHANGED",
@@ -1485,9 +1502,9 @@
       "role": "palinsesto prioritario Milan",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:30Z",
-      "lastSuccessAt": "2026-09-11T12:37:31Z",
-      "contentHash": "b6f8bded1537aa6e1b52dad25876cf7eb88cfb7315882555cf80cd716b3af597",
+      "checkedAt": "2026-09-11T18:34:27Z",
+      "lastSuccessAt": "2026-09-11T18:34:28Z",
+      "contentHash": "624d65c25c1b65a97f2564faf32972c4180e8a119650829cf67656fa778a3c7f",
       "contentChanged": true,
       "note": "Priorità Milan. Il palinsesto può provare il canale, non la gratuità dell'accesso online.",
       "status": "CHANGED",
@@ -1506,9 +1523,9 @@
       "role": "requisiti di accesso",
       "automation": "HEALTH_ONLY",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:31Z",
-      "lastSuccessAt": "2026-09-11T12:37:33Z",
-      "contentHash": "9ec7787d59b5d91c57178ea87003a8fdd8c332750bd2b189d290642e43033785",
+      "checkedAt": "2026-09-11T18:34:28Z",
+      "lastSuccessAt": "2026-09-11T18:34:30Z",
+      "contentHash": "cc922f473b9ef67ccca54d7f5f60b9100801a01314f0f4b939cdb194e39df397",
       "contentChanged": true,
       "note": "La fonte indica la visione digisport.ro/app per gli abbonati Digi Romania: non è accesso liberamente gratuito.",
       "status": "CHANGED",
@@ -1527,8 +1544,8 @@
       "role": "diritti e prime selezioni",
       "automation": "HEALTH_ONLY",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:33Z",
-      "lastSuccessAt": "2026-09-11T12:37:33Z",
+      "checkedAt": "2026-09-11T18:34:30Z",
+      "lastSuccessAt": "2026-09-11T18:34:30Z",
       "contentHash": "5553e47f051ee6c35bfe833b7cafad9e043d3c901f9ee10a76fa1337911a2e92",
       "contentChanged": false,
       "note": "Fonte ufficiale del pacchetto BBC; le nuove selezioni possono essere pubblicate su pagine diverse.",
@@ -1548,8 +1565,8 @@
       "role": "territorio, account e licenza",
       "automation": "HEALTH_ONLY",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:33Z",
-      "lastSuccessAt": "2026-09-11T12:37:35Z",
+      "checkedAt": "2026-09-11T18:34:30Z",
+      "lastSuccessAt": "2026-09-11T18:34:30Z",
       "contentHash": "3151fca238ee9fe860359c020557dca5061403e4d78f6e6c4e6ad21ad84f5d5c",
       "contentChanged": false,
       "note": "BBC richiede presenza nel Regno Unito, account BBC e licenza TV per iPlayer.",
@@ -1569,9 +1586,9 @@
       "role": "palinsesto prioritario Milan",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:35Z",
-      "lastSuccessAt": "2026-09-11T12:37:35Z",
-      "contentHash": "112cb8d8b1720cdc9036f048aefdfdcc3ed4783772fcd3245dc1fc8f9432cb75",
+      "checkedAt": "2026-09-11T18:34:30Z",
+      "lastSuccessAt": "2026-09-11T18:34:32Z",
+      "contentHash": "e41c204d71fd17e88d0bb788531984197547fb3ed2631a9372b74fdc3bed9e46",
       "contentChanged": true,
       "note": "Nessun diritto Serie A 2026/27 è presunto. Ogni eventuale rilevazione resta in revisione.",
       "status": "CHANGED",
@@ -1590,7 +1607,7 @@
       "role": "controllo evidenza storica",
       "automation": "HEALTH_ONLY",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:35Z",
+      "checkedAt": "2026-09-11T18:34:32Z",
       "lastSuccessAt": null,
       "contentHash": null,
       "contentChanged": false,
@@ -1610,9 +1627,9 @@
       "role": "pagina canale e possibili palinsesti",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:35Z",
-      "lastSuccessAt": "2026-09-11T12:37:37Z",
-      "contentHash": "1f7c261ca5eb20ae0348cd250dee9e90517be15d41d81a5c286bb5210550f487",
+      "checkedAt": "2026-09-11T18:34:33Z",
+      "lastSuccessAt": "2026-09-11T18:34:34Z",
+      "contentHash": "28e39705250c9223c7917609f2fd7a85d1211d7944d397a29571cef019c7cbb2",
       "contentChanged": true,
       "note": "Pagina mista: ogni rilevazione è soltanto candidata, mai conferma automatica.",
       "status": "CHANGED",
@@ -1631,8 +1648,8 @@
       "role": "diritti territoriali",
       "automation": "HEALTH_ONLY",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:37Z",
-      "lastSuccessAt": "2026-09-11T12:37:37Z",
+      "checkedAt": "2026-09-11T18:34:34Z",
+      "lastSuccessAt": "2026-09-11T18:34:35Z",
       "contentHash": "3aac82f63348ff34887b4dd151218e5f87906adc23f23926f9b637df29b23443",
       "contentChanged": false,
       "note": "Prova i diritti CBS, non la gratuità della singola partita.",
@@ -1652,9 +1669,9 @@
       "role": "palinsesto prioritario Milan",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:37Z",
-      "lastSuccessAt": "2026-09-11T12:37:38Z",
-      "contentHash": "28412566563d6eb85b87a2d94f514cb7e9ab09e6838c1da2f6d7945f94530196",
+      "checkedAt": "2026-09-11T18:34:35Z",
+      "lastSuccessAt": "2026-09-11T18:34:36Z",
+      "contentHash": "9ce0bed520e250e72e3583a88db1365daf5fbbb6108656e67e26e5b4c1d38e36",
       "contentChanged": true,
       "note": "Solo una pagina video live puntuale può provare la partita; score e articoli non bastano.",
       "status": "CHANGED",
@@ -1673,12 +1690,12 @@
       "role": "risultati, non prova video",
       "automation": "HEALTH_ONLY",
       "priorityMilan": true,
-      "checkedAt": "2026-09-11T12:37:38Z",
-      "lastSuccessAt": "2026-09-11T12:37:39Z",
-      "contentHash": "202eb609c96833acda8bd9f4441ebcf921feed64855f937db2e3e62fe883d845",
-      "contentChanged": false,
+      "checkedAt": "2026-09-11T18:34:36Z",
+      "lastSuccessAt": "2026-09-11T18:34:38Z",
+      "contentHash": "b26bb9d932205a55959fb69213b6dda0ef5b57dacfa528ef62650d13b2794a92",
+      "contentChanged": true,
       "note": "Pagina risultati/cronaca: non equivale a una diretta video Auvio.",
-      "status": "OK",
+      "status": "CHANGED",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
       "error": null
@@ -1694,7 +1711,7 @@
       "role": "condizioni di gratuità",
       "automation": "HEALTH_ONLY",
       "priorityMilan": false,
-      "checkedAt": "2026-09-11T12:37:39Z",
+      "checkedAt": "2026-09-11T18:34:38Z",
       "lastSuccessAt": null,
       "contentHash": null,
       "contentChanged": false,
@@ -1715,7 +1732,7 @@
       "role": "canale free-to-air e competizioni",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": false,
-      "checkedAt": "2026-09-11T12:37:39Z",
+      "checkedAt": "2026-09-11T18:34:38Z",
       "lastSuccessAt": null,
       "contentHash": null,
       "contentChanged": false,
@@ -1736,7 +1753,7 @@
       "role": "annuncio del canale gratuito",
       "automation": "HEALTH_ONLY",
       "priorityMilan": false,
-      "checkedAt": "2026-09-11T12:37:40Z",
+      "checkedAt": "2026-09-11T18:34:39Z",
       "lastSuccessAt": "2026-09-11T06:37:29Z",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "contentChanged": false,
@@ -1756,8 +1773,8 @@
       "role": "palinsesto video ufficiale",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": false,
-      "checkedAt": "2026-09-11T12:37:40Z",
-      "lastSuccessAt": "2026-09-11T12:37:40Z",
+      "checkedAt": "2026-09-11T18:34:39Z",
+      "lastSuccessAt": "2026-09-11T18:34:40Z",
       "contentHash": "33c05bbb5a24f8ed7af253dc07d052b0fbe45e340e34cb8739a8d6994924ecd0",
       "contentChanged": false,
       "note": "Un video programmato deve essere verificato come diretta integrale e autorizzata.",
@@ -1777,7 +1794,7 @@
       "role": "palinsesto candidato",
       "automation": "HEALTH_AND_CANDIDATES",
       "priorityMilan": false,
-      "checkedAt": "2026-09-11T12:37:40Z",
+      "checkedAt": "2026-09-11T18:34:40Z",
       "lastSuccessAt": null,
       "contentHash": null,
       "contentChanged": false,
@@ -1797,8 +1814,8 @@
       "role": "copertura candidata",
       "automation": "HEALTH_ONLY",
       "priorityMilan": false,
-      "checkedAt": "2026-09-11T12:37:41Z",
-      "lastSuccessAt": "2026-09-11T12:37:42Z",
+      "checkedAt": "2026-09-11T18:34:40Z",
+      "lastSuccessAt": "2026-09-11T18:34:42Z",
       "contentHash": "11dc98acd645b5c85762dc1294f4a5e14bf2219d66751c47f610f0ea552f3405",
       "contentChanged": false,
       "note": "L’inclusione della Serie A non prova che la partita sia gratuita.",
