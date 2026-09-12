@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-09-12T12:34:19Z",
+  "updatedAt": "2026-09-12T18:31:19Z",
   "count": 380,
   "events": [
     {
@@ -823,8 +823,8 @@
       "id": "401874991",
       "round": 4,
       "date": "2026-09-12T13:00Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Genoa",
         "fullName": "Genoa",
@@ -839,8 +839,8 @@
         "color": "#FACF08",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "providerHints": [
         "Paramount+"
       ]
@@ -849,8 +849,8 @@
       "id": "401874941",
       "round": 4,
       "date": "2026-09-12T16:00Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Lazio",
         "fullName": "Lazio",
@@ -865,8 +865,8 @@
         "color": "#e4002b",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 2,
       "providerHints": [
         "Paramount+"
       ]
