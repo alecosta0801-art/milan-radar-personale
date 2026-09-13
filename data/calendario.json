@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-09-12T18:31:19Z",
+  "updatedAt": "2026-09-13T00:38:53Z",
   "count": 380,
   "events": [
     {
@@ -875,8 +875,8 @@
       "id": "401874979",
       "round": 4,
       "date": "2026-09-12T18:45Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Atalanta",
         "fullName": "Atalanta",
@@ -891,8 +891,8 @@
         "color": "#282846",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "providerHints": [
         "Paramount+"
       ]
