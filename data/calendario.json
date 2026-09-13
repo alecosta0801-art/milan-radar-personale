@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-09-13T12:35:01Z",
+  "updatedAt": "2026-09-13T18:32:41Z",
   "count": 380,
   "events": [
     {
@@ -901,8 +901,8 @@
       "id": "401874936",
       "round": 4,
       "date": "2026-09-13T13:00Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Lecce",
         "fullName": "Lecce",
@@ -917,9 +917,10 @@
         "color": "#C8142F",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 2,
       "providerHints": [
+        "CBSSN",
         "Paramount+"
       ]
     },
@@ -927,8 +928,8 @@
       "id": "401874792",
       "round": 4,
       "date": "2026-09-13T16:00Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Napoli",
         "fullName": "Napoli",
@@ -943,7 +944,7 @@
         "color": "#04043d",
         "alternateColor": "#ffffff"
       },
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "providerHints": [
         "Paramount+"
