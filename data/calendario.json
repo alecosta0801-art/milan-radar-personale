@@ -5,7 +5,7 @@
     "name": "ESPN scoreboard feed",
     "url": "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20260801-20270601&limit=500"
   },
-  "updatedAt": "2026-09-14T18:36:00Z",
+  "updatedAt": "2026-09-15T00:40:06Z",
   "count": 380,
   "events": [
     {
@@ -1032,8 +1032,8 @@
       "id": "401874966",
       "round": 4,
       "date": "2026-09-14T18:45Z",
-      "status": "SCHEDULED",
-      "statusText": "Scheduled",
+      "status": "FINISHED",
+      "statusText": "FT",
       "home": {
         "name": "Inter Milan",
         "fullName": "Internazionale",
@@ -1048,8 +1048,8 @@
         "color": "#19161D",
         "alternateColor": "#0F1C3F"
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 5,
+      "awayScore": 3,
       "providerHints": [
         "Paramount+"
       ]
