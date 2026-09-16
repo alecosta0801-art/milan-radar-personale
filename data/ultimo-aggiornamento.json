@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "startedAt": "2026-09-15T18:33:01Z",
-  "finishedAt": "2026-09-15T18:33:33Z",
+  "startedAt": "2026-09-16T00:37:40Z",
+  "finishedAt": "2026-09-16T00:38:16Z",
   "ok": true,
   "steps": {
     "calendar": {
       "ok": true,
-      "mode": "NETWORK",
+      "mode": "CACHE",
       "count": 380,
-      "updatedAt": "2026-09-15T18:33:01Z"
+      "error": "HTTP Error 400: Bad Request"
     },
     "sources": {
       "ok": 15,
@@ -22,12 +22,14 @@
       "assignments": 12,
       "opportunities": 5,
       "territories": 249,
-      "generatedAt": "2026-09-15T18:33:33Z",
+      "generatedAt": "2026-09-16T00:38:16Z",
       "milanFixtures": 38,
       "milanBroadcasters": 6,
       "milanExactObservations": 6,
       "milanConfirmedFree": 0
     }
   },
-  "warnings": []
+  "warnings": [
+    "Calendario di rete non raggiungibile: usata la cache valida."
+  ]
 }
