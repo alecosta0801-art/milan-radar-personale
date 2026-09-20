@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "startedAt": "2026-09-20T06:35:25Z",
-  "finishedAt": "2026-09-20T06:35:50Z",
+  "startedAt": "2026-09-20T12:34:52Z",
+  "finishedAt": "2026-09-20T12:35:06Z",
   "ok": true,
   "steps": {
     "calendar": {
@@ -11,9 +11,9 @@
       "error": "HTTP Error 400: Bad Request"
     },
     "sources": {
-      "ok": 16,
+      "ok": 17,
       "total": 22,
-      "limited": 4,
+      "limited": 3,
       "errors": 2,
       "changed": 9
     },
@@ -22,7 +22,7 @@
       "assignments": 12,
       "opportunities": 5,
       "territories": 249,
-      "generatedAt": "2026-09-20T06:35:50Z",
+      "generatedAt": "2026-09-20T12:35:06Z",
       "milanFixtures": 38,
       "milanBroadcasters": 6,
       "milanExactObservations": 6,
