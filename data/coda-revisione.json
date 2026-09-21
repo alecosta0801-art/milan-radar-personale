@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T06:40:25Z",
+  "generatedAt": "2026-09-21T12:34:43Z",
   "policy": "REVIEW_ONLY",
   "note": "Questi elementi non sono conferme e non appaiono tra le dirette gratuite finché non vengono revisionati.",
   "candidates": [
@@ -15,7 +15,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-21T06:40:18Z",
+      "detectedAt": "2026-09-21T12:34:36Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -34,7 +34,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-21T06:40:15Z",
+      "detectedAt": "2026-09-21T12:34:30Z",
       "mediaSignals": [
         "LIVE",
         "HIGHLIGHTS"
@@ -53,7 +53,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-21T06:40:18Z",
+      "detectedAt": "2026-09-21T12:34:36Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -72,7 +72,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-21T06:40:15Z",
+      "detectedAt": "2026-09-21T12:34:30Z",
       "mediaSignals": [
         "LIVE"
       ],
@@ -90,7 +90,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-21T06:40:18Z",
+      "detectedAt": "2026-09-21T12:34:36Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
@@ -109,7 +109,7 @@
       "broadcaster": "Digi Sport 4 — palinsesto",
       "sourceId": "digi-program-4",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
-      "detectedAt": "2026-09-21T06:40:15Z",
+      "detectedAt": "2026-09-21T12:34:30Z",
       "mediaSignals": [
         "LIVE",
         "HIGHLIGHTS"
