@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T00:36:47Z",
+  "generatedAt": "2026-09-23T06:38:10Z",
   "policy": "REVIEW_ONLY",
   "note": "Questi elementi non sono conferme e non appaiono tra le dirette gratuite finché non vengono revisionati.",
   "candidates": [
@@ -15,7 +15,7 @@
       "broadcaster": "CBS Sports Golazo Network",
       "sourceId": "cbs-golazo-schedule",
       "sourceUrl": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-      "detectedAt": "2026-09-23T00:36:41Z",
+      "detectedAt": "2026-09-23T06:38:03Z",
       "mediaSignals": [
         "HIGHLIGHTS",
         "TEXT_SCORE"
