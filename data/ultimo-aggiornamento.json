@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "startedAt": "2026-09-29T13:03:42Z",
-  "finishedAt": "2026-09-29T13:04:02Z",
+  "startedAt": "2026-09-29T22:22:44Z",
+  "finishedAt": "2026-09-29T22:23:04Z",
   "ok": true,
   "steps": {
     "calendar": {
@@ -22,7 +22,7 @@
       "assignments": 12,
       "opportunities": 5,
       "territories": 249,
-      "generatedAt": "2026-09-29T13:04:02Z",
+      "generatedAt": "2026-09-29T22:23:04Z",
       "milanFixtures": 38,
       "milanBroadcasters": 6,
       "milanExactObservations": 6,
