@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "startedAt": "2026-10-22T21:43:57Z",
-  "finishedAt": "2026-10-22T21:44:18Z",
+  "startedAt": "2026-10-23T05:01:32Z",
+  "finishedAt": "2026-10-23T05:01:51Z",
   "ok": true,
   "steps": {
     "calendar": {
@@ -15,14 +15,14 @@
       "total": 22,
       "limited": 4,
       "errors": 2,
-      "changed": 9
+      "changed": 10
     },
     "catalog": {
       "ok": true,
       "assignments": 12,
       "opportunities": 5,
       "territories": 249,
-      "generatedAt": "2026-10-22T21:44:18Z",
+      "generatedAt": "2026-10-23T05:01:51Z",
       "milanFixtures": 38,
       "milanBroadcasters": 6,
       "milanExactObservations": 6,
