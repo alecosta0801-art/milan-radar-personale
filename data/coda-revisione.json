@@ -1,9 +1,81 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T18:57:27Z",
+  "generatedAt": "2026-11-16T06:45:24Z",
   "policy": "REVIEW_ONLY",
   "note": "Questi elementi non sono conferme e non appaiono tra le dirette gratuite finché non vengono revisionati.",
   "candidates": [
+    {
+      "id": "auto-digi-program-2-401874989",
+      "state": "REVIEW",
+      "eventId": "401874989",
+      "priorityTeam": "AC Milan",
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 2 — palinsesto",
+      "sourceId": "digi-program-2",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
+      "detectedAt": "2026-11-16T06:45:10Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "PRIORITÀ MILAN. Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-3-401874989",
+      "state": "REVIEW",
+      "eventId": "401874989",
+      "priorityTeam": "AC Milan",
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 3 — palinsesto",
+      "sourceId": "digi-program-3",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-3",
+      "detectedAt": "2026-11-16T06:45:11Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "PRIORITÀ MILAN. Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-2-401874826",
+      "state": "REVIEW",
+      "eventId": "401874826",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 2 — palinsesto",
+      "sourceId": "digi-program-2",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
+      "detectedAt": "2026-11-16T06:45:10Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-2-401874960",
+      "state": "REVIEW",
+      "eventId": "401874960",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 2 — palinsesto",
+      "sourceId": "digi-program-2",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
+      "detectedAt": "2026-11-16T06:45:10Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
     {
       "id": "auto-digi-program-2-401874981",
       "state": "REVIEW",
@@ -15,10 +87,62 @@
       "broadcaster": "Digi Sport 2 — palinsesto",
       "sourceId": "digi-program-2",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-11-15T18:57:13Z",
+      "detectedAt": "2026-11-16T06:45:10Z",
       "mediaSignals": [
         "LIVE"
       ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-2-401874992",
+      "state": "REVIEW",
+      "eventId": "401874992",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 2 — palinsesto",
+      "sourceId": "digi-program-2",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
+      "detectedAt": "2026-11-16T06:45:10Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-2-401875008",
+      "state": "REVIEW",
+      "eventId": "401875008",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 2 — palinsesto",
+      "sourceId": "digi-program-2",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
+      "detectedAt": "2026-11-16T06:45:10Z",
+      "mediaSignals": [
+        "LIVE"
+      ],
+      "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
+      "automaticConfirmation": false
+    },
+    {
+      "id": "auto-digi-program-4-401875008",
+      "state": "REVIEW",
+      "eventId": "401875008",
+      "priorityTeam": null,
+      "territories": [
+        "RO"
+      ],
+      "broadcaster": "Digi Sport 4 — palinsesto",
+      "sourceId": "digi-program-4",
+      "sourceUrl": "https://www.digisport.ro/program-tv/digisport-4",
+      "detectedAt": "2026-11-16T06:45:12Z",
+      "mediaSignals": [],
       "reason": "Le due squadre compaiono vicine nella fonte monitorata; diretta integrale, gratuità, data, territorio e canale richiedono verifica editoriale.",
       "automaticConfirmation": false
     },
@@ -33,7 +157,7 @@
       "broadcaster": "Digi Sport 2 — palinsesto",
       "sourceId": "digi-program-2",
       "sourceUrl": "https://www.digisport.ro/program-tv/digisport-2",
-      "detectedAt": "2026-11-15T18:57:13Z",
+      "detectedAt": "2026-11-16T06:45:10Z",
       "mediaSignals": [
         "LIVE"
       ],
